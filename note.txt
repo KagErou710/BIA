@@ -1,0 +1,4 @@
+tools: power BI
+system development: Python
+
+output: graph, predicted data -> dashboard
