@@ -1,0 +1,433 @@
+Country of Residence,Annual Income Group,No of Arrivals,Year
+Brunai,"Less than 20,000 US$",6214,2019
+Brunai,"20,001 - 60,000 US$",8941,2019
+Brunai,"More than 60,000 US$",1818,2019
+Brunai,No income,2885,2019
+Cambodia,"Less than 20,000 US$",510992,2019
+Cambodia,"20,001 - 60,000 US$",302803,2019
+Cambodia,"More than 60,000 US$",46333,2019
+Cambodia,No income,65309,2019
+Indonesia,"Less than 20,000 US$",265826,2019
+Indonesia,"20,001 - 60,000 US$",325477,2019
+Indonesia,"More than 60,000 US$",46129,2019
+Indonesia,No income,69476,2019
+Laos,"Less than 20,000 US$",1318062,2019
+Laos,"20,001 - 60,000 US$",366195,2019
+Laos,"More than 60,000 US$",57258,2019
+Laos,No income,115247,2019
+Malaysia,"Less than 20,000 US$",2370705,2019
+Malaysia,"20,001 - 60,000 US$",1400460,2019
+Malaysia,"More than 60,000 US$",242957,2019
+Malaysia,No income,260336,2019
+Myanmar,"Less than 20,000 US$",82265,2019
+Myanmar,"20,001 - 60,000 US$",249061,2019
+Myanmar,"More than 60,000 US$",24798,2019
+Myanmar,No income,33177,2019
+Philippines,"Less than 20,000 US$",168407,2019
+Philippines,"20,001 - 60,000 US$",239818,2019
+Philippines,"More than 60,000 US$",31419,2019
+Philippines,No income,33921,2019
+Singapore,"Less than 20,000 US$",253067,2019
+Singapore,"20,001 - 60,000 US$",554635,2019
+Singapore,"More than 60,000 US$",187673,2019
+Singapore,No income,154649,2019
+Vietnam,"Less than 20,000 US$",521061,2019
+Vietnam,"20,001 - 60,000 US$",447069,2019
+Vietnam,"More than 60,000 US$",48833,2019
+Vietnam,No income,63646,2019
+China,"Less than 20,000 US$",4252304,2019
+China,"20,001 - 60,000 US$",5708023,2019
+China,"More than 60,000 US$",639807,2019
+China,No income,538524,2019
+HongKong,"Less than 20,000 US$",286983,2019
+HongKong,"20,001 - 60,000 US$",556309,2019
+HongKong,"More than 60,000 US$",131406,2019
+HongKong,No income,115423,2019
+Japan,"Less than 20,000 US$",325045,2019
+Japan,"20,001 - 60,000 US$",1127266,2019
+Japan,"More than 60,000 US$",206559,2019
+Japan,No income,128315,2019
+Korea,"Less than 20,000 US$",361290,2019
+Korea,"20,001 - 60,000 US$",1122156,2019
+Korea,"More than 60,000 US$",185907,2019
+Korea,No income,211112,2019
+Taiwan,"Less than 20,000 US$",253603,2019
+Taiwan,"20,001 - 60,000 US$",444295,2019
+Taiwan,"More than 60,000 US$",43615,2019
+Taiwan,No income,40161,2019
+Others in East Asia,"Less than 20,000 US$",36958,2019
+Others in East Asia,"20,001 - 60,000 US$",51969,2019
+Others in East Asia,"More than 60,000 US$",11923,2019
+Others in East Asia,No income,14088,2019
+Austria,"Less than 20,000 US$",24057,2019
+Austria,"20,001 - 60,000 US$",68940,2019
+Austria,"More than 60,000 US$",9555,2019
+Austria,No income,8138,2019
+Belgium,"Less than 20,000 US$",20867,2019
+Belgium,"20,001 - 60,000 US$",70691,2019
+Belgium,"More than 60,000 US$",10290,2019
+Belgium,No income,12168,2019
+Denmark,"Less than 20,000 US$",31280,2019
+Denmark,"20,001 - 60,000 US$",84249,2019
+Denmark,"More than 60,000 US$",29154,2019
+Denmark,No income,14843,2019
+Finland,"Less than 20,000 US$",25635,2019
+Finland,"20,001 - 60,000 US$",74723,2019
+Finland,"More than 60,000 US$",14564,2019
+Finland,No income,10568,2019
+France,"Less than 20,000 US$",185440,2019
+France,"20,001 - 60,000 US$",385355,2019
+France,"More than 60,000 US$",61631,2019
+France,No income,80979,2019
+Germany,"Less than 20,000 US$",170885,2019
+Germany,"20,001 - 60,000 US$",495692,2019
+Germany,"More than 60,000 US$",99646,2019
+Germany,No income,70703,2019
+Ireland,"Less than 20,000 US$",9868,2019
+Ireland,"20,001 - 60,000 US$",35785,2019
+Ireland,"More than 60,000 US$",5778,2019
+Ireland,No income,2913,2019
+Italy,"Less than 20,000 US$",75171,2019
+Italy,"20,001 - 60,000 US$",136074,2019
+Italy,"More than 60,000 US$",17049,2019
+Italy,No income,22576,2019
+Netherlands,"Less than 20,000 US$",47750,2019
+Netherlands,"20,001 - 60,000 US$",132173,2019
+Netherlands,"More than 60,000 US$",28128,2019
+Netherlands,No income,21955,2019
+Norway,"Less than 20,000 US$",18728,2019
+Norway,"20,001 - 60,000 US$",79096,2019
+Norway,"More than 60,000 US$",21357,2019
+Norway,No income,11328,2019
+Russian,"Less than 20,000 US$",757417,2019
+Russian,"20,001 - 60,000 US$",486181,2019
+Russian,"More than 60,000 US$",102004,2019
+Russian,No income,136235,2019
+Spain,"Less than 20,000 US$",53145,2019
+Spain,"20,001 - 60,000 US$",108915,2019
+Spain,"More than 60,000 US$",10459,2019
+Spain,No income,14450,2019
+Sweden,"Less than 20,000 US$",45209,2019
+Sweden,"20,001 - 60,000 US$",177042,2019
+Sweden,"More than 60,000 US$",29928,2019
+Sweden,No income,27272,2019
+Switzerland,"Less than 20,000 US$",34243,2019
+Switzerland,"20,001 - 60,000 US$",109957,2019
+Switzerland,"More than 60,000 US$",42593,2019
+Switzerland,No income,19294,2019
+UnitedKingdom,"Less than 20,000 US$",157087,2019
+UnitedKingdom,"20,001 - 60,000 US$",601773,2019
+UnitedKingdom,"More than 60,000 US$",115564,2019
+UnitedKingdom,No income,72350,2019
+EastEurope,"Less than 20,000 US$",216863,2019
+EastEurope,"20,001 - 60,000 US$",221942,2019
+EastEurope,"More than 60,000 US$",45585,2019
+EastEurope,No income,48521,2019
+Others in Europe,"Less than 20,000 US$",50111,2019
+Others in Europe,"20,001 - 60,000 US$",87191,2019
+Others in Europe,"More than 60,000 US$",19138,2019
+Others in Europe,No income,14969,2019
+Argentina,"Less than 20,000 US$",12466,2019
+Argentina,"20,001 - 60,000 US$",12594,2019
+Argentina,"More than 60,000 US$",1642,2019
+Argentina,No income,1481,2019
+Brazil,"Less than 20,000 US$",22844,2019
+Brazil,"20,001 - 60,000 US$",28562,2019
+Brazil,"More than 60,000 US$",5032,2019
+Brazil,No income,2532,2019
+Canada,"Less than 20,000 US$",44717,2019
+Canada,"20,001 - 60,000 US$",156365,2019
+Canada,"More than 60,000 US$",35682,2019
+Canada,No income,15810,2019
+USA,"Less than 20,000 US$",164008,2019
+USA,"20,001 - 60,000 US$",689256,2019
+USA,"More than 60,000 US$",200919,2019
+USA,No income,82027,2019
+Others in America,"Less than 20,000 US$",25480,2019
+Others in America,"20,001 - 60,000 US$",43363,2019
+Others in America,"More than 60,000 US$",8135,2019
+Others in America,No income,6885,2019
+Bangladesh,"Less than 20,000 US$",27832,2019
+Bangladesh,"20,001 - 60,000 US$",87609,2019
+Bangladesh,"More than 60,000 US$",10996,2019
+Bangladesh,No income,13185,2019
+India,"Less than 20,000 US$",565390,2019
+India,"20,001 - 60,000 US$",1079225,2019
+India,"More than 60,000 US$",154281,2019
+India,No income,162173,2019
+Nepal,"Less than 20,000 US$",18541,2019
+Nepal,"20,001 - 60,000 US$",34355,2019
+Nepal,"More than 60,000 US$",3234,2019
+Nepal,No income,4298,2019
+Pakistan,"Less than 20,000 US$",16969,2019
+Pakistan,"20,001 - 60,000 US$",43061,2019
+Pakistan,"More than 60,000 US$",6013,2019
+Pakistan,No income,5874,2019
+SriLanka,"Less than 20,000 US$",16381,2019
+SriLanka,"20,001 - 60,000 US$",45454,2019
+SriLanka,"More than 60,000 US$",4414,2019
+SriLanka,No income,3998,2019
+Others in Asia,"Less than 20,000 US$",19543,2019
+Others in Asia,"20,001 - 60,000 US$",25008,2019
+Others in Asia,"More than 60,000 US$",3285,2019
+Others in Asia,No income,5858,2019
+Australia,"Less than 20,000 US$",122605,2019
+Australia,"20,001 - 60,000 US$",438027,2019
+Australia,"More than 60,000 US$",136690,2019
+Australia,No income,74476,2019
+NewZealand,"Less than 20,000 US$",14451,2019
+NewZealand,"20,001 - 60,000 US$",56906,2019
+NewZealand,"More than 60,000 US$",14760,2019
+NewZealand,No income,7623,2019
+Others in Oceania,"Less than 20,000 US$",2116,2019
+Others in Oceania,"20,001 - 60,000 US$",4081,2019
+Others in Oceania,"More than 60,000 US$",1476,2019
+Others in Oceania,No income,943,2019
+Egypt,"Less than 20,000 US$",5058,2019
+Egypt,"20,001 - 60,000 US$",10897,2019
+Egypt,"More than 60,000 US$",1661,2019
+Egypt,No income,1394,2019
+Israel,"Less than 20,000 US$",48306,2019
+Israel,"20,001 - 60,000 US$",115130,2019
+Israel,"More than 60,000 US$",15770,2019
+Israel,No income,14875,2019
+Kuwait,"Less than 20,000 US$",16434,2019
+Kuwait,"20,001 - 60,000 US$",52811,2019
+Kuwait,"More than 60,000 US$",7423,2019
+Kuwait,No income,7836,2019
+SaudiArabia,"Less than 20,000 US$",9414,2019
+SaudiArabia,"20,001 - 60,000 US$",21619,2019
+SaudiArabia,"More than 60,000 US$",3038,2019
+SaudiArabia,No income,2712,2019
+UnitedArabEmirates,"Less than 20,000 US$",30452,2019
+UnitedArabEmirates,"20,001 - 60,000 US$",79453,2019
+UnitedArabEmirates,"More than 60,000 US$",16988,2019
+UnitedArabEmirates,No income,18637,2019
+Others in Middle East,"Less than 20,000 US$",59544,2019
+Others in Middle East,"20,001 - 60,000 US$",135798,2019
+Others in Middle East,"More than 60,000 US$",24828,2019
+Others in Middle East,No income,27240,2019
+SouthAfrica,"Less than 20,000 US$",25208,2019
+SouthAfrica,"20,001 - 60,000 US$",40631,2019
+SouthAfrica,"More than 60,000 US$",12793,2019
+SouthAfrica,No income,11118,2019
+Others in Africa,"Less than 20,000 US$",32629,2019
+Others in Africa,"20,001 - 60,000 US$",54910,2019
+Others in Africa,"More than 60,000 US$",9662,2019
+Others in Africa,No income,9868,2019
+Brunai,"Less than 20,000 US$",972,2020
+Brunai,"20,001 - 60,000 US$",945,2020
+Brunai,"More than 60,000 US$",278,2020
+Brunai,No income,249,2020
+Cambodia,"Less than 20,000 US$",104516,2020
+Cambodia,"20,001 - 60,000 US$",36763,2020
+Cambodia,"More than 60,000 US$",6900,2020
+Cambodia,No income,16091,2020
+Indonesia,"Less than 20,000 US$",37467,2020
+Indonesia,"20,001 - 60,000 US$",42447,2020
+Indonesia,"More than 60,000 US$",7767,2020
+Indonesia,No income,9312,2020
+Laos,"Less than 20,000 US$",300470,2020
+Laos,"20,001 - 60,000 US$",55997,2020
+Laos,"More than 60,000 US$",10755,2020
+Laos,No income,15024,2020
+Malaysia,"Less than 20,000 US$",319752,2020
+Malaysia,"20,001 - 60,000 US$",223105,2020
+Malaysia,"More than 60,000 US$",29341,2020
+Malaysia,No income,40724,2020
+Myanmar,"Less than 20,000 US$",14880,2020
+Myanmar,"20,001 - 60,000 US$",29479,2020
+Myanmar,"More than 60,000 US$",5309,2020
+Myanmar,No income,5273,2020
+Philippines,"Less than 20,000 US$",25261,2020
+Philippines,"20,001 - 60,000 US$",33434,2020
+Philippines,"More than 60,000 US$",5192,2020
+Philippines,No income,4472,2020
+Singapore,"Less than 20,000 US$",29100,2020
+Singapore,"20,001 - 60,000 US$",66862,2020
+Singapore,"More than 60,000 US$",24055,2020
+Singapore,No income,12494,2020
+Vietnam,"Less than 20,000 US$",64566,2020
+Vietnam,"20,001 - 60,000 US$",46885,2020
+Vietnam,"More than 60,000 US$",9489,2020
+Vietnam,No income,10368,2020
+China,"Less than 20,000 US$",411456,2020
+China,"20,001 - 60,000 US$",629180,2020
+China,"More than 60,000 US$",145309,2020
+China,No income,116192,2020
+HongKong,"Less than 20,000 US$",36250,2020
+HongKong,"20,001 - 60,000 US$",63739,2020
+HongKong,"More than 60,000 US$",19501,2020
+HongKong,No income,12498,2020
+Japan,"Less than 20,000 US$",60528,2020
+Japan,"20,001 - 60,000 US$",176990,2020
+Japan,"More than 60,000 US$",47695,2020
+Japan,No income,28831,2020
+Korea,"Less than 20,000 US$",51397,2020
+Korea,"20,001 - 60,000 US$",140807,2020
+Korea,"More than 60,000 US$",33995,2020
+Korea,No income,36114,2020
+Taiwan,"Less than 20,000 US$",43498,2020
+Taiwan,"20,001 - 60,000 US$",50480,2020
+Taiwan,"More than 60,000 US$",10849,2020
+Taiwan,No income,9448,2020
+Others in East Asia,"Less than 20,000 US$",4832,2020
+Others in East Asia,"20,001 - 60,000 US$",6743,2020
+Others in East Asia,"More than 60,000 US$",1755,2020
+Others in East Asia,No income,1969,2020
+Austria,"Less than 20,000 US$",8769,2020
+Austria,"20,001 - 60,000 US$",20921,2020
+Austria,"More than 60,000 US$",3257,2020
+Austria,No income,1652,2020
+Belgium,"Less than 20,000 US$",5884,2020
+Belgium,"20,001 - 60,000 US$",15743,2020
+Belgium,"More than 60,000 US$",2520,2020
+Belgium,No income,1725,2020
+Denmark,"Less than 20,000 US$",11994,2020
+Denmark,"20,001 - 60,000 US$",29871,2020
+Denmark,"More than 60,000 US$",15116,2020
+Denmark,No income,5981,2020
+Finland,"Less than 20,000 US$",12369,2020
+Finland,"20,001 - 60,000 US$",31957,2020
+Finland,"More than 60,000 US$",7955,2020
+Finland,No income,5646,2020
+France,"Less than 20,000 US$",73213,2020
+France,"20,001 - 60,000 US$",117411,2020
+France,"More than 60,000 US$",16917,2020
+France,No income,24073,2020
+Germany,"Less than 20,000 US$",49742,2020
+Germany,"20,001 - 60,000 US$",137095,2020
+Germany,"More than 60,000 US$",29802,2020
+Germany,No income,14621,2020
+Ireland,"Less than 20,000 US$",1603,2020
+Ireland,"20,001 - 60,000 US$",6341,2020
+Ireland,"More than 60,000 US$",1421,2020
+Ireland,No income,349,2020
+Italy,"Less than 20,000 US$",22371,2020
+Italy,"20,001 - 60,000 US$",27622,2020
+Italy,"More than 60,000 US$",3760,2020
+Italy,No income,4574,2020
+Netherlands,"Less than 20,000 US$",11027,2020
+Netherlands,"20,001 - 60,000 US$",30535,2020
+Netherlands,"More than 60,000 US$",6598,2020
+Netherlands,No income,2281,2020
+Norway,"Less than 20,000 US$",5618,2020
+Norway,"20,001 - 60,000 US$",23433,2020
+Norway,"More than 60,000 US$",7935,2020
+Norway,No income,2096,2020
+Russian,"Less than 20,000 US$",302634,2020
+Russian,"20,001 - 60,000 US$",201921,2020
+Russian,"More than 60,000 US$",35425,2020
+Russian,No income,46401,2020
+Spain,"Less than 20,000 US$",9357,2020
+Spain,"20,001 - 60,000 US$",13825,2020
+Spain,"More than 60,000 US$",1628,2020
+Spain,No income,1689,2020
+Sweden,"Less than 20,000 US$",18437,2020
+Sweden,"20,001 - 60,000 US$",67471,2020
+Sweden,"More than 60,000 US$",12142,2020
+Sweden,No income,10871,2020
+Switzerland,"Less than 20,000 US$",9275,2020
+Switzerland,"20,001 - 60,000 US$",25848,2020
+Switzerland,"More than 60,000 US$",15187,2020
+Switzerland,No income,3696,2020
+UnitedKingdom,"Less than 20,000 US$",38513,2020
+UnitedKingdom,"20,001 - 60,000 US$",134483,2020
+UnitedKingdom,"More than 60,000 US$",33321,2020
+UnitedKingdom,No income,9544,2020
+EastEurope,"Less than 20,000 US$",85700,2020
+EastEurope,"20,001 - 60,000 US$",93146,2020
+EastEurope,"More than 60,000 US$",15291,2020
+EastEurope,No income,16969,2020
+Others in Europe,"Less than 20,000 US$",14536,2020
+Others in Europe,"20,001 - 60,000 US$",24552,2020
+Others in Europe,"More than 60,000 US$",4983,2020
+Others in Europe,No income,3095,2020
+Argentina,"Less than 20,000 US$",6308,2020
+Argentina,"20,001 - 60,000 US$",4916,2020
+Argentina,"More than 60,000 US$",451,2020
+Argentina,No income,786,2020
+Brazil,"Less than 20,000 US$",7726,2020
+Brazil,"20,001 - 60,000 US$",8346,2020
+Brazil,"More than 60,000 US$",1392,2020
+Brazil,No income,736,2020
+Canada,"Less than 20,000 US$",9241,2020
+Canada,"20,001 - 60,000 US$",34144,2020
+Canada,"More than 60,000 US$",9407,2020
+Canada,No income,3192,2020
+USA,"Less than 20,000 US$",30656,2020
+USA,"20,001 - 60,000 US$",123778,2020
+USA,"More than 60,000 US$",40650,2020
+USA,No income,13524,2020
+Others in America,"Less than 20,000 US$",5657,2020
+Others in America,"20,001 - 60,000 US$",7584,2020
+Others in America,"More than 60,000 US$",1318,2020
+Others in America,No income,1438,2020
+Bangladesh,"Less than 20,000 US$",5593,2020
+Bangladesh,"20,001 - 60,000 US$",12810,2020
+Bangladesh,"More than 60,000 US$",2052,2020
+Bangladesh,No income,2458,2020
+India,"Less than 20,000 US$",93242,2020
+India,"20,001 - 60,000 US$",126361,2020
+India,"More than 60,000 US$",22986,2020
+India,No income,22634,2020
+Nepal,"Less than 20,000 US$",3732,2020
+Nepal,"20,001 - 60,000 US$",5123,2020
+Nepal,"More than 60,000 US$",618,2020
+Nepal,No income,923,2020
+Pakistan,"Less than 20,000 US$",3075,2020
+Pakistan,"20,001 - 60,000 US$",6236,2020
+Pakistan,"More than 60,000 US$",1206,2020
+Pakistan,No income,1002,2020
+SriLanka,"Less than 20,000 US$",2269,2020
+SriLanka,"20,001 - 60,000 US$",4570,2020
+SriLanka,"More than 60,000 US$",884,2020
+SriLanka,No income,652,2020
+Others in Asia,"Less than 20,000 US$",3356,2020
+Others in Asia,"20,001 - 60,000 US$",3205,2020
+Others in Asia,"More than 60,000 US$",692,2020
+Others in Asia,No income,1209,2020
+Australia,"Less than 20,000 US$",22379,2020
+Australia,"20,001 - 60,000 US$",65278,2020
+Australia,"More than 60,000 US$",25165,2020
+Australia,No income,10921,2020
+NewZealand,"Less than 20,000 US$",2316,2020
+NewZealand,"20,001 - 60,000 US$",7729,2020
+NewZealand,"More than 60,000 US$",2531,2020
+NewZealand,No income,1197,2020
+Others in Oceania,"Less than 20,000 US$",438,2020
+Others in Oceania,"20,001 - 60,000 US$",640,2020
+Others in Oceania,"More than 60,000 US$",211,2020
+Others in Oceania,No income,169,2020
+Egypt,"Less than 20,000 US$",843,2020
+Egypt,"20,001 - 60,000 US$",1735,2020
+Egypt,"More than 60,000 US$",288,2020
+Egypt,No income,218,2020
+Israel,"Less than 20,000 US$",9973,2020
+Israel,"20,001 - 60,000 US$",14212,2020
+Israel,"More than 60,000 US$",3299,2020
+Israel,No income,2084,2020
+Kuwait,"Less than 20,000 US$",2886,2020
+Kuwait,"20,001 - 60,000 US$",5484,2020
+Kuwait,"More than 60,000 US$",1455,2020
+Kuwait,No income,1324,2020
+SaudiArabia,"Less than 20,000 US$",1893,2020
+SaudiArabia,"20,001 - 60,000 US$",3133,2020
+SaudiArabia,"More than 60,000 US$",755,2020
+SaudiArabia,No income,591,2020
+UnitedArabEmirates,"Less than 20,000 US$",2054,2020
+UnitedArabEmirates,"20,001 - 60,000 US$",5211,2020
+UnitedArabEmirates,"More than 60,000 US$",1474,2020
+UnitedArabEmirates,No income,811,2020
+Others in Middle East,"Less than 20,000 US$",7543,2020
+Others in Middle East,"20,001 - 60,000 US$",13320,2020
+Others in Middle East,"More than 60,000 US$",2676,2020
+Others in Middle East,No income,1968,2020
+SouthAfrica,"Less than 20,000 US$",2615,2020
+SouthAfrica,"20,001 - 60,000 US$",4931,2020
+SouthAfrica,"More than 60,000 US$",1251,2020
+SouthAfrica,No income,895,2020
+Others in Africa,"Less than 20,000 US$",4707,2020
+Others in Africa,"20,001 - 60,000 US$",7864,2020
+Others in Africa,"More than 60,000 US$",1465,2020
+Others in Africa,No income,1335,2020

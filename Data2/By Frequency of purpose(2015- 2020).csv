@@ -1,0 +1,973 @@
+Coountry of Residence,Frequency of visit ,No of Arrivals,Year
+Brunai,Total,17433,2015
+Brunai,First visit,4508,2015
+Brunai,Re-visit,12925,2015
+Cambodia,Total,544818,2015
+Cambodia,First visit,103733,2015
+Cambodia,Re-visit,441085,2015
+Indonesia,Total,470820,2015
+Indonesia,First visit,182849,2015
+Indonesia,Re-visit,287971,2015
+Laos,Total,1230521,2015
+Laos,First visit,224678,2015
+Laos,Re-visit,1005843,2015
+Malaysia,Total,3407553,2015
+Malaysia,First visit,1362845,2015
+Malaysia,Re-visit,2044708,2015
+Myanmar,Total,263422,2015
+Myanmar,First visit,64982,2015
+Myanmar,Re-visit,198440,2015
+Philippines,Total,301297,2015
+Philippines,First visit,102467,2015
+Philippines,Re-visit,198830,2015
+Singapore,Total,1074755,2015
+Singapore,First visit,237035,2015
+Singapore,Re-visit,837720,2015
+Vietnam,Total,767643,2015
+Vietnam,First visit,302216,2015
+Vietnam,Re-visit,465427,2015
+China,Total,7981407,2015
+China,First visit,4378564,2015
+China,Re-visit,3602843,2015
+HongKong,Total,708435,2015
+HongKong,First visit,175038,2015
+HongKong,Re-visit,533397,2015
+Japan,Total,1349388,2015
+Japan,First visit,445144,2015
+Japan,Re-visit,904244,2015
+Korea,Total,1359211,2015
+Korea,First visit,653778,2015
+Korea,Re-visit,705433,2015
+Taiwan,Total,545560,2015
+Taiwan,First visit,178195,2015
+Taiwan,Re-visit,367365,2015
+Others in East Asia,Total,71666,2015
+Others in East Asia,First visit,20692,2015
+Others in East Asia,Re-visit,50974,2015
+Austria,Total,94878,2015
+Austria,First visit,32400,2015
+Austria,Re-visit,62478,2015
+Belgium,Total,107695,2015
+Belgium,First visit,41145,2015
+Belgium,Re-visit,66550,2015
+Denmark,Total,159420,2015
+Denmark,First visit,50748,2015
+Denmark,Re-visit,108672,2015
+Finland,Total,135107,2015
+Finland,First visit,33239,2015
+Finland,Re-visit,101868,2015
+France,Total,648382,2015
+France,First visit,266170,2015
+France,Re-visit,382212,2015
+Germany,Total,746135,2015
+Germany,First visit,282137,2015
+Germany,Re-visit,463998,2015
+Ireland,Total,0,2015
+Ireland,First visit,0,2015
+Ireland,Re-visit,0,2015
+Italy,Total,231429,2015
+Italy,First visit,105030,2015
+Italy,Re-visit,126399,2015
+Netherlands,Total,214945,2015
+Netherlands,First visit,78559,2015
+Netherlands,Re-visit,136386,2015
+Norway,Total,138024,2015
+Norway,First visit,40914,2015
+Norway,Re-visit,97110,2015
+Russian,Total,877120,2015
+Russian,First visit,279740,2015
+Russian,Re-visit,597380,2015
+Spain,Total,147380,2015
+Spain,First visit,72537,2015
+Spain,Re-visit,74843,2015
+Sweden,Total,317792,2015
+Sweden,First visit,79238,2015
+Sweden,Re-visit,238554,2015
+Switzerland,Total,219967,2015
+Switzerland,First visit,67242,2015
+Switzerland,Re-visit,152725,2015
+UnitedKingdom,Total,896591,2015
+UnitedKingdom,First visit,319301,2015
+UnitedKingdom,Re-visit,577290,2015
+EastEurope,Total,346352,2015
+EastEurope,First visit,159264,2015
+EastEurope,Re-visit,187088,2015
+Others in Europe,Total,195564,2015
+Others in Europe,First visit,83658,2015
+Others in Europe,Re-visit,111906,2015
+Argentina,Total,28050,2015
+Argentina,First visit,16443,2015
+Argentina,Re-visit,11607,2015
+Brazil,Total,44414,2015
+Brazil,First visit,23865,2015
+Brazil,Re-visit,20549,2015
+Canada,Total,210097,2015
+Canada,First visit,84505,2015
+Canada,Re-visit,125592,2015
+USA,Total,827110,2015
+USA,First visit,328081,2015
+USA,Re-visit,499029,2015
+Others in America,Total,59161,2015
+Others in America,First visit,30915,2015
+Others in America,Re-visit,28246,2015
+Bangladesh,Total,109033,2015
+Bangladesh,First visit,39520,2015
+Bangladesh,Re-visit,69513,2015
+India,Total,1039395,2015
+India,First visit,496622,2015
+India,Re-visit,542773,2015
+Nepal,Total,33325,2015
+Nepal,First visit,13696,2015
+Nepal,Re-visit,19629,2015
+Pakistan,Total,76366,2015
+Pakistan,First visit,29282,2015
+Pakistan,Re-visit,47084,2015
+SriLanka,Total,75595,2015
+SriLanka,First visit,29238,2015
+SriLanka,Re-visit,46357,2015
+Others in Asia,Total,40578,2015
+Others in Asia,First visit,11014,2015
+Others in Asia,Re-visit,29564,2015
+Australia,Total,816053,2015
+Australia,First visit,268150,2015
+Australia,Re-visit,547903,2015
+NewZealand,Total,102271,2015
+NewZealand,First visit,38517,2015
+NewZealand,Re-visit,63754,2015
+Others in Oceania,Total,5562,2015
+Others in Oceania,First visit,1927,2015
+Others in Oceania,Re-visit,3635,2015
+Egypt,Total,22851,2015
+Egypt,First visit,10592,2015
+Egypt,Re-visit,12259,2015
+Israel,Total,138499,2015
+Israel,First visit,52968,2015
+Israel,Re-visit,85531,2015
+Kuwait,Total,72830,2015
+Kuwait,First visit,27320,2015
+Kuwait,Re-visit,45510,2015
+SaudiArabia,Total,25153,2015
+SaudiArabia,First visit,11819,2015
+SaudiArabia,Re-visit,13334,2015
+UnitedArabEmirates,Total,171516,2015
+UnitedArabEmirates,First visit,58216,2015
+UnitedArabEmirates,Re-visit,113300,2015
+Others in Middle East,Total,289942,2015
+Others in Middle East,First visit,113357,2015
+Others in Middle East,Re-visit,176585,2015
+SouthAfrica,Total,74397,2015
+SouthAfrica,First visit,32373,2015
+SouthAfrica,Re-visit,42024,2015
+Others in Africa,Total,90277,2015
+Others in Africa,First visit,34531,2015
+Others in Africa,Re-visit,55746,2015
+Brunai,Total,17994,2016
+Brunai,First visit,4266,2016
+Brunai,Re-visit,13728,2016
+Cambodia,Total,684836,2016
+Cambodia,First visit,227053,2016
+Cambodia,Re-visit,457783,2016
+Indonesia,Total,558499,2016
+Indonesia,First visit,224989,2016
+Indonesia,Re-visit,333510,2016
+Laos,Total,1414916,2016
+Laos,First visit,310332,2016
+Laos,Re-visit,1104584,2016
+Malaysia,Total,3506199,2016
+Malaysia,First visit,1436912,2016
+Malaysia,Re-visit,2069287,2016
+Myanmar,Total,363871,2016
+Myanmar,First visit,62542,2016
+Myanmar,Re-visit,301329,2016
+Philippines,Total,323860,2016
+Philippines,First visit,107780,2016
+Philippines,Re-visit,216080,2016
+Singapore,Total,1163309,2016
+Singapore,First visit,179410,2016
+Singapore,Re-visit,983899,2016
+Vietnam,Total,863807,2016
+Vietnam,First visit,341267,2016
+Vietnam,Re-visit,522540,2016
+China,Total,8821148,2016
+China,First visit,4884236,2016
+China,Re-visit,3936912,2016
+HongKong,Total,690465,2016
+HongKong,First visit,157167,2016
+HongKong,Re-visit,533298,2016
+Japan,Total,1416903,2016
+Japan,First visit,278925,2016
+Japan,Re-visit,1137978,2016
+Korea,Total,1449617,2016
+Korea,First visit,635330,2016
+Korea,Re-visit,814287,2016
+Taiwan,Total,513528,2016
+Taiwan,First visit,162474,2016
+Taiwan,Re-visit,351054,2016
+Others in East,Total,72401,2016
+Others in East,First visit,14181,2016
+Others in East,Re-visit,58220,2016
+Austria,Total,97989,2016
+Austria,First visit,31699,2016
+Austria,Re-visit,66290,2016
+Belgium,Total,112140,2016
+Belgium,First visit,38452,2016
+Belgium,Re-visit,73688,2016
+Denmark,Total,163406,2016
+Denmark,First visit,50954,2016
+Denmark,Re-visit,112452,2016
+Finland,Total,131207,2016
+Finland,First visit,38329,2016
+Finland,Re-visit,92878,2016
+France,Total,697738,2016
+France,First visit,263406,2016
+France,Re-visit,434332,2016
+Germany,Total,825496,2016
+Germany,First visit,292895,2016
+Germany,Re-visit,532601,2016
+Ireland,Total,59557,2016
+Ireland,First visit,20922,2016
+Ireland,Re-visit,38635,2016
+Italy,Total,248903,2016
+Italy,First visit,100423,2016
+Italy,Re-visit,148480,2016
+Netherlands,Total,228443,2016
+Netherlands,First visit,78653,2016
+Netherlands,Re-visit,149790,2016
+Norway,Total,134335,2016
+Norway,First visit,32487,2016
+Norway,Re-visit,101848,2016
+Russian,Total,1085890,2016
+Russian,First visit,388551,2016
+Russian,Re-visit,697339,2016
+Spain,Total,168264,2016
+Spain,First visit,89529,2016
+Spain,Re-visit,78735,2016
+Sweden,Total,329070,2016
+Sweden,First visit,92917,2016
+Sweden,Re-visit,236153,2016
+Switzerland,Total,226412,2016
+Switzerland,First visit,60856,2016
+Switzerland,Re-visit,165556,2016
+UnitedKingdom,Total,961471,2016
+UnitedKingdom,First visit,282139,2016
+UnitedKingdom,Re-visit,679332,2016
+EastEurope,Total,379153,2016
+EastEurope,First visit,163671,2016
+EastEurope,Re-visit,215482,2016
+Others in Europe,Total,158924,2016
+Others in Europe,First visit,65236,2016
+Others in Europe,Re-visit,93688,2016
+Argentina,Total,46390,2016
+Argentina,First visit,21812,2016
+Argentina,Re-visit,24578,2016
+Brazil,Total,63139,2016
+Brazil,First visit,29492,2016
+Brazil,Re-visit,33647,2016
+Canada,Total,222358,2016
+Canada,First visit,78567,2016
+Canada,Re-visit,143791,2016
+USA,Total,938862,2016
+USA,First visit,307573,2016
+USA,Re-visit,631289,2016
+Others in America,Total,70724,2016
+Others in America,First visit,29776,2016
+Others in America,Re-visit,40948,2016
+Bangladesh,Total,103616,2016
+Bangladesh,First visit,23984,2016
+Bangladesh,Re-visit,79632,2016
+India,Total,1076970,2016
+India,First visit,428986,2016
+India,Re-visit,647984,2016
+Nepal,Total,43170,2016
+Nepal,First visit,15960,2016
+Nepal,Re-visit,27210,2016
+Pakistan,Total,71720,2016
+Pakistan,First visit,21112,2016
+Pakistan,Re-visit,50608,2016
+SriLanka,Total,67876,2016
+SriLanka,First visit,22097,2016
+SriLanka,Re-visit,45779,2016
+Others in Asia,Total,42282,2016
+Others in Asia,First visit,6904,2016
+Others in Asia,Re-visit,35378,2016
+Australia,Total,813017,2016
+Australia,First visit,226998,2016
+Australia,Re-visit,586019,2016
+NewZealand,Total,99402,2016
+NewZealand,First visit,30340,2016
+NewZealand,Re-visit,69062,2016
+Others in Oceania,Total,6119,2016
+Others in Oceania,First visit,1842,2016
+Others in Oceania,Re-visit,4277,2016
+Egypt,Total,24913,2016
+Egypt,First visit,9365,2016
+Egypt,Re-visit,15548,2016
+Israel,Total,161254,2016
+Israel,First visit,55880,2016
+Israel,Re-visit,105374,2016
+Kuwait,Total,68168,2016
+Kuwait,First visit,15951,2016
+Kuwait,Re-visit,52217,2016
+SaudiArabia,Total,33038,2016
+SaudiArabia,First visit,13032,2016
+SaudiArabia,Re-visit,20006,2016
+UnitedArabEmirates,Total,187665,2016
+UnitedArabEmirates,First visit,44478,2016
+UnitedArabEmirates,Re-visit,143187,2016
+Others in Middle East,Total,346420,2016
+Others in Middle East,First visit,112844,2016
+Others in Middle East,Re-visit,233576,2016
+SouthAfrica,Total,76541,2016
+SouthAfrica,First visit,28582,2016
+SouthAfrica,Re-visit,47959,2016
+Others in Africa,Total,96193,2016
+Others in Africa,First visit,23626,2016
+Others in Africa,Re-visit,72567,2016
+Brunai,Total,18249,2017
+Brunai,First visit,4278,2017
+Brunai,Re-visit,13971,2017
+Cambodia,Total,851879,2017
+Cambodia,First visit,132659,2017
+Cambodia,Re-visit,719220,2017
+Indonesia,Total,594060,2017
+Indonesia,First visit,234525,2017
+Indonesia,Re-visit,359535,2017
+Laos,Total,1692866,2017
+Laos,First visit,95418,2017
+Laos,Re-visit,1597448,2017
+Malaysia,Total,3493112,2017
+Malaysia,First visit,1072491,2017
+Malaysia,Re-visit,2420621,2017
+Myanmar,Total,387722,2017
+Myanmar,First visit,62109,2017
+Myanmar,Re-visit,325613,2017
+Philippines,Total,361218,2017
+Philippines,First visit,127484,2017
+Philippines,Re-visit,233734,2017
+Singapore,Total,1259523,2017
+Singapore,First visit,140359,2017
+Singapore,Re-visit,1119164,2017
+Vietnam,Total,985695,2017
+Vietnam,First visit,369763,2017
+Vietnam,Re-visit,615932,2017
+China,Total,9846818,2017
+China,First visit,5592476,2017
+China,Re-visit,4254342,2017
+HongKong,Total,798460,2017
+HongKong,First visit,151694,2017
+HongKong,Re-visit,646766,2017
+Japan,Total,1525707,2017
+Japan,First visit,322185,2017
+Japan,Re-visit,1203522,2017
+Korea,Total,1698608,2017
+Korea,First visit,767718,2017
+Korea,Re-visit,930890,2017
+Taiwan,Total,560441,2017
+Taiwan,First visit,163133,2017
+Taiwan,Re-visit,397308,2017
+Others in East,Total,91918,2017
+Others in East,First visit,18838,2017
+Others in East,Re-visit,73080,2017
+Austria,Total,104220,2017
+Austria,First visit,32597,2017
+Austria,Re-visit,71623,2017
+Belgium,Total,112635,2017
+Belgium,First visit,36352,2017
+Belgium,Re-visit,76283,2017
+Denmark,Total,157923,2017
+Denmark,First visit,41268,2017
+Denmark,Re-visit,116655,2017
+Finland,Total,138926,2017
+Finland,First visit,31847,2017
+Finland,Re-visit,107079,2017
+France,Total,693426,2017
+France,First visit,253539,2017
+France,Re-visit,439887,2017
+Germany,Total,837318,2017
+Germany,First visit,278547,2017
+Germany,Re-visit,558771,2017
+Ireland,Total,59500,2017
+Ireland,First visit,19659,2017
+Ireland,Re-visit,39841,2017
+Italy,Total,244982,2017
+Italy,First visit,95853,2017
+Italy,Re-visit,149129,2017
+Netherlands,Total,215433,2017
+Netherlands,First visit,70718,2017
+Netherlands,Re-visit,144715,2017
+Norway,Total,130200,2017
+Norway,First visit,28193,2017
+Norway,Re-visit,102007,2017
+Russian,Total,1340376,2017
+Russian,First visit,452312,2017
+Russian,Re-visit,888064,2017
+Spain,Total,178954,2017
+Spain,First visit,96956,2017
+Spain,Re-visit,81998,2017
+Sweden,Total,317797,2017
+Sweden,First visit,67760,2017
+Sweden,Re-visit,250037,2017
+Switzerland,Total,227152,2017
+Switzerland,First visit,55825,2017
+Switzerland,Re-visit,171327,2017
+UnitedKingdom,Total,945061,2017
+UnitedKingdom,First visit,261636,2017
+UnitedKingdom,Re-visit,683425,2017
+EastEurope,Total,445521,2017
+EastEurope,First visit,199409,2017
+EastEurope,Re-visit,246112,2017
+Others in Europe,Total,172742,2017
+Others in Europe,First visit,74643,2017
+Others in Europe,Re-visit,98099,2017
+Argentina,Total,28983,2017
+Argentina,First visit,33755,2017
+Argentina,Re-visit,62738,2017
+Brazil,Total,31995,2017
+Brazil,First visit,39354,2017
+Brazil,Re-visit,71349,2017
+Canada,Total,74778,2017
+Canada,First visit,152291,2017
+Canada,Re-visit,227069,2017
+USA,Total,337341,2017
+USA,First visit,669598,2017
+USA,Re-visit,1006939,2017
+Others in America,Total,36645,2017
+Others in America,First visit,44154,2017
+Others in America,Re-visit,80799,2017
+Bangladesh,Total,32735,2017
+Bangladesh,First visit,92845,2017
+Bangladesh,Re-visit,125580,2017
+India,Total,536336,2017
+India,First visit,745345,2017
+India,Re-visit,1281681,2017
+Nepal,Total,17096,2017
+Nepal,First visit,26686,2017
+Nepal,Re-visit,43782,2017
+Pakistan,Total,25066,2017
+Pakistan,First visit,51718,2017
+Pakistan,Re-visit,76784,2017
+SriLanka,Total,20989,2017
+SriLanka,First visit,42397,2017
+SriLanka,Re-visit,63386,2017
+Others in Asia,Total,8313,2017
+Others in Asia,First visit,40002,2017
+Others in Asia,Re-visit,48315,2017
+Australia,Total,216473,2017
+Australia,First visit,621012,2017
+Australia,Re-visit,837485,2017
+NewZealand,Total,30563,2017
+NewZealand,First visit,71765,2017
+NewZealand,Re-visit,102328,2017
+Others in Oceania,Total,2739,2017
+Others in Oceania,First visit,5225,2017
+Others in Oceania,Re-visit,7964,2017
+Egypt,Total,7821,2017
+Egypt,First visit,11909,2017
+Egypt,Re-visit,19730,2017
+Israel,Total,57764,2017
+Israel,First visit,117051,2017
+Israel,Re-visit,174815,2017
+Kuwait,Total,17284,2017
+Kuwait,First visit,63611,2017
+Kuwait,Re-visit,80895,2017
+SaudiArabia,Total,17704,2017
+SaudiArabia,First visit,24906,2017
+SaudiArabia,Re-visit,42610,2017
+UnitedArabEmirates,Total,47285,2017
+UnitedArabEmirates,First visit,152190,2017
+UnitedArabEmirates,Re-visit,199475,2017
+Others in Middle East,Total,121316,2017
+Others in Middle East,First visit,236202,2017
+Others in Middle East,Re-visit,357518,2017
+SouthAfrica,Total,41329,2017
+SouthAfrica,First visit,49853,2017
+SouthAfrica,Re-visit,91182,2017
+Others in Africa,Total,37693,2017
+Others in Africa,First visit,63419,2017
+Others in Africa,Re-visit,101112,2017
+Brunai,Total,18460,2018
+Brunai,First visit,3664,2018
+Brunai,Re-visit,14796,2018
+Cambodia,Total,950980,2018
+Cambodia,First visit,126145,2018
+Cambodia,Re-visit,824835,2018
+Indonesia,Total,644479,2018
+Indonesia,First visit,245195,2018
+Indonesia,Re-visit,399284,2018
+Laos,Total,1682304,2018
+Laos,First visit,98640,2018
+Laos,Re-visit,1583664,2018
+Malaysia,Total,4042998,2018
+Malaysia,First visit,1190145,2018
+Malaysia,Re-visit,2852853,2018
+Myanmar,Total,379880,2018
+Myanmar,First visit,63289,2018
+Myanmar,Re-visit,316591,2018
+Philippines,Total,407832,2018
+Philippines,First visit,132126,2018
+Philippines,Re-visit,275706,2018
+Singapore,Total,1168112,2018
+Singapore,First visit,109772,2018
+Singapore,Re-visit,1058340,2018
+Vietnam,Total,1053723,2018
+Vietnam,First visit,395049,2018
+Vietnam,Re-visit,658674,2018
+China,Total,10625167,2018
+China,First visit,5762730,2018
+China,Re-visit,4862437,2018
+HongKong,Total,1047559,2018
+HongKong,First visit,155252,2018
+HongKong,Re-visit,892307,2018
+Japan,Total,1642712,2018
+Japan,First visit,347328,2018
+Japan,Re-visit,1295384,2018
+Korea,Total,1785147,2018
+Korea,First visit,776370,2018
+Korea,Re-visit,1008777,2018
+Taiwan,Total,674172,2018
+Taiwan,First visit,189132,2018
+Taiwan,Re-visit,485040,2018
+Others in East,Total,101921,2018
+Others in East,First visit,20210,2018
+Others in East,Re-visit,81711,2018
+Austria,Total,114768,2018
+Austria,First visit,31123,2018
+Austria,Re-visit,83645,2018
+Belgium,Total,116346,2018
+Belgium,First visit,36198,2018
+Belgium,Re-visit,80148,2018
+Denmark,Total,170044,2018
+Denmark,First visit,33813,2018
+Denmark,Re-visit,136231,2018
+Finland,Total,135384,2018
+Finland,First visit,21649,2018
+Finland,Re-visit,113735,2018
+France,Total,724350,2018
+France,First visit,237128,2018
+France,Re-visit,487222,2018
+Germany,Total,872185,2018
+Germany,First visit,252250,2018
+Germany,Re-visit,619935,2018
+Ireland,Total,58677,2018
+Ireland,First visit,18786,2018
+Ireland,Re-visit,39891,2018
+Italy,Total,263515,2018
+Italy,First visit,97303,2018
+Italy,Re-visit,166212,2018
+Netherlands,Total,226618,2018
+Netherlands,First visit,70995,2018
+Netherlands,Re-visit,155623,2018
+Norway,Total,133020,2018
+Norway,First visit,23459,2018
+Norway,Re-visit,109561,2018
+Russian,Total,1466457,2018
+Russian,First visit,427572,2018
+Russian,Re-visit,1038885,2018
+Spain,Total,176597,2018
+Spain,First visit,88569,2018
+Spain,Re-visit,88028,2018
+Sweden,Total,304206,2018
+Sweden,First visit,41593,2018
+Sweden,Re-visit,262613,2018
+Switzerland,Total,225985,2018
+Switzerland,First visit,45936,2018
+Switzerland,Re-visit,180049,2018
+UnitedKingdom,Total,954404,2018
+UnitedKingdom,First visit,255055,2018
+UnitedKingdom,Re-visit,699349,2018
+EastEurope,Total,487669,2018
+EastEurope,First visit,191657,2018
+EastEurope,Re-visit,296012,2018
+Others in Europe,Total,173470,2018
+Others in Europe,First visit,68683,2018
+Others in Europe,Re-visit,104787,2018
+Argentina,Total,43485,2018
+Argentina,First visit,17678,2018
+Argentina,Re-visit,25807,2018
+Brazil,Total,57105,2018
+Brazil,First visit,23700,2018
+Brazil,Re-visit,33405,2018
+Canada,Total,252763,2018
+Canada,First visit,84347,2018
+Canada,Re-visit,168416,2018
+USA,Total,1096177,2018
+USA,First visit,370833,2018
+USA,Re-visit,725344,2018
+Others in America,Total,84478,2018
+Others in America,First visit,38786,2018
+Others in America,Re-visit,45692,2018
+Bangladesh,Total,125809,2018
+Bangladesh,First visit,29234,2018
+Bangladesh,Re-visit,96575,2018
+India,Total,1562878,2018
+India,First visit,619057,2018
+India,Re-visit,943821,2018
+Nepal,Total,55482,2018
+Nepal,First visit,20021,2018
+Nepal,Re-visit,35461,2018
+Pakistan,Total,78256,2018
+Pakistan,First visit,23465,2018
+Pakistan,Re-visit,54791,2018
+SriLanka,Total,62697,2018
+SriLanka,First visit,17305,2018
+SriLanka,Re-visit,45392,2018
+Others in Asia,Total,50761,2018
+Others in Asia,First visit,8365,2018
+Others in Asia,Re-visit,42396,2018
+Australia,Total,802234,2018
+Australia,First visit,183536,2018
+Australia,Re-visit,618698,2018
+NewZealand,Total,100887,2018
+NewZealand,First visit,28575,2018
+NewZealand,Re-visit,72312,2018
+Others in Oceania,Total,7917,2018
+Others in Oceania,First visit,2385,2018
+Others in Oceania,Re-visit,5532,2018
+Egypt,Total,18161,2018
+Egypt,First visit,7430,2018
+Egypt,Re-visit,10731,2018
+Israel,Total,185366,2018
+Israel,First visit,57149,2018
+Israel,Re-visit,128217,2018
+Kuwait,Total,77365,2018
+Kuwait,First visit,15383,2018
+Kuwait,Re-visit,61982,2018
+SaudiArabia,Total,35090,2018
+SaudiArabia,First visit,12947,2018
+SaudiArabia,Re-visit,22143,2018
+UnitedArabEmirates,Total,151137,2018
+UnitedArabEmirates,First visit,28425,2018
+UnitedArabEmirates,Re-visit,122712,2018
+Others in Middle East,Total,300677,2018
+Others in Middle East,First visit,86078,2018
+Others in Middle East,Re-visit,214599,2018
+SouthAfrica,Total,97071,2018
+SouthAfrica,First visit,41891,2018
+SouthAfrica,Re-visit,55180,2018
+Others in Africa,Total,103257,2018
+Others in Africa,First visit,34293,2018
+Others in Africa,Re-visit,68964,2018
+Brunai,Total,19858,2019
+Brunai,First visit,3996,2019
+Brunai,Re-visit,15862,2019
+Cambodia,Total,925437,2019
+Cambodia,First visit,93845,2019
+Cambodia,Re-visit,831592,2019
+Indonesia,Total,706908,2019
+Indonesia,First visit,264848,2019
+Indonesia,Re-visit,442060,2019
+Laos,Total,1856762,2019
+Laos,First visit,71323,2019
+Laos,Re-visit,1785439,2019
+Malaysia,Total,4274458,2019
+Malaysia,First visit,1185749,2019
+Malaysia,Re-visit,3088709,2019
+Myanmar,Total,389301,2019
+Myanmar,First visit,59827,2019
+Myanmar,Re-visit,329474,2019
+Philippines,Total,473565,2019
+Philippines,First visit,175313,2019
+Philippines,Re-visit,298252,2019
+Singapore,Total,1150024,2019
+Singapore,First visit,103700,2019
+Singapore,Re-visit,1046324,2019
+Vietnam,Total,1080609,2019
+Vietnam,First visit,361973,2019
+Vietnam,Re-visit,718636,2019
+China,Total,11138658,2019
+China,First visit,5669189,2019
+China,Re-visit,5469469,2019
+HongKong,Total,1090121,2019
+HongKong,First visit,138229,2019
+HongKong,Re-visit,951892,2019
+Japan,Total,1787185,2019
+Japan,First visit,407656,2019
+Japan,Re-visit,1379529,2019
+Korea,Total,1880465,2019
+Korea,First visit,786653,2019
+Korea,Re-visit,1093812,2019
+Taiwan,Total,781674,2019
+Taiwan,First visit,237389,2019
+Taiwan,Re-visit,544285,2019
+Others in East,Total,114938,2019
+Others in East,First visit,22770,2019
+Others in East,Re-visit,92168,2019
+Austria,Total,110690,2019
+Austria,First visit,33114,2019
+Austria,Re-visit,77576,2019
+Belgium,Total,114016,2019
+Belgium,First visit,37361,2019
+Belgium,Re-visit,76655,2019
+Denmark,Total,159526,2019
+Denmark,First visit,39212,2019
+Denmark,Re-visit,120314,2019
+Finland,Total,125490,2019
+Finland,First visit,24336,2019
+Finland,Re-visit,101154,2019
+France,Total,713405,2019
+France,First visit,240751,2019
+France,Re-visit,472654,2019
+Germany,Total,836926,2019
+Germany,First visit,266783,2019
+Germany,Re-visit,570143,2019
+Ireland,Total,54344,2019
+Ireland,First visit,19726,2019
+Ireland,Re-visit,34618,2019
+Italy,Total,250870,2019
+Italy,First visit,99072,2019
+Italy,Re-visit,151798,2019
+Netherlands,Total,230006,2019
+Netherlands,First visit,75762,2019
+Netherlands,Re-visit,154244,2019
+Norway,Total,130509,2019
+Norway,First visit,28175,2019
+Norway,Re-visit,102334,2019
+Russian,Total,1481837,2019
+Russian,First visit,505522,2019
+Russian,Re-visit,976315,2019
+Spain,Total,186969,2019
+Spain,First visit,95384,2019
+Spain,Re-visit,91585,2019
+Sweden,Total,279451,2019
+Sweden,First visit,50134,2019
+Sweden,Re-visit,229317,2019
+Switzerland,Total,206087,2019
+Switzerland,First visit,47227,2019
+Switzerland,Re-visit,158860,2019
+UnitedKingdom,Total,946774,2019
+UnitedKingdom,First visit,275533,2019
+UnitedKingdom,Re-visit,671241,2019
+EastEurope,Total,532911,2019
+EastEurope,First visit,225698,2019
+EastEurope,Re-visit,307213,2019
+Others in Europe,Total,171409,2019
+Others in Europe,First visit,72492,2019
+Others in Europe,Re-visit,98917,2019
+Argentina,Total,28183,2019
+Argentina,First visit,10871,2019
+Argentina,Re-visit,17312,2019
+Brazil,Total,58970,2019
+Brazil,First visit,25864,2019
+Brazil,Re-visit,33106,2019
+Canada,Total,252574,2019
+Canada,First visit,86433,2019
+Canada,Re-visit,166141,2019
+USA,Total,1136210,2019
+USA,First visit,409234,2019
+USA,Re-visit,726976,2019
+Others in America,Total,83863,2019
+Others in America,First visit,39627,2019
+Others in America,Re-visit,44236,2019
+Bangladesh,Total,139622,2019
+Bangladesh,First visit,35728,2019
+Bangladesh,Re-visit,103894,2019
+India,Total,1961069,2019
+India,First visit,790339,2019
+India,Re-visit,1170730,2019
+Nepal,Total,60428,2019
+Nepal,First visit,21249,2019
+Nepal,Re-visit,39179,2019
+Pakistan,Total,71917,2019
+Pakistan,First visit,21980,2019
+Pakistan,Re-visit,49937,2019
+SriLanka,Total,70247,2019
+SriLanka,First visit,17033,2019
+SriLanka,Re-visit,53214,2019
+Others in Asia,Total,53694,2019
+Others in Asia,First visit,9750,2019
+Others in Asia,Re-visit,43944,2019
+Australia,Total,771798,2019
+Australia,First visit,203630,2019
+Australia,Re-visit,568168,2019
+NewZealand,Total,93740,2019
+NewZealand,First visit,29179,2019
+NewZealand,Re-visit,64561,2019
+Others in Oceania,Total,8616,2019
+Others in Oceania,First visit,2897,2019
+Others in Oceania,Re-visit,5719,2019
+Egypt,Total,19010,2019
+Egypt,First visit,8128,2019
+Egypt,Re-visit,10882,2019
+Israel,Total,194081,2019
+Israel,First visit,55171,2019
+Israel,Re-visit,138910,2019
+Kuwait,Total,84504,2019
+Kuwait,First visit,18487,2019
+Kuwait,Re-visit,66017,2019
+SaudiArabia,Total,36783,2019
+SaudiArabia,First visit,13480,2019
+SaudiArabia,Re-visit,23303,2019
+UnitedArabEmirates,Total,145530,2019
+UnitedArabEmirates,First visit,29602,2019
+UnitedArabEmirates,Re-visit,115928,2019
+Others in Middle East,Total,247410,2019
+Others in Middle East,First visit,67081,2019
+Others in Middle East,Re-visit,180329,2019
+SouthAfrica,Total,89750,2019
+SouthAfrica,First visit,43668,2019
+SouthAfrica,Re-visit,46082,2019
+Others in Africa,Total,107069,2019
+Others in Africa,First visit,35122,2019
+Others in Africa,Re-visit,71947,2019
+Brunai,Total,2444,2020
+Brunai,First visit,416,2020
+Brunai,Re-visit,2028,2020
+Cambodia,Total,164270,2020
+Cambodia,First visit,13175,2020
+Cambodia,Re-visit,151095,2020
+Indonesia,Total,96993,2020
+Indonesia,First visit,33419,2020
+Indonesia,Re-visit,63574,2020
+Laos,Total,382246,2020
+Laos,First visit,14521,2020
+Laos,Re-visit,367725,2020
+Malaysia,Total,612922,2020
+Malaysia,First visit,164374,2020
+Malaysia,Re-visit,448548,2020
+Myanmar,Total,54941,2020
+Myanmar,First visit,7155,2020
+Myanmar,Re-visit,47786,2020
+Philippines,Total,68359,2020
+Philippines,First visit,22720,2020
+Philippines,Re-visit,45639,2020
+Singapore,Total,132511,2020
+Singapore,First visit,8829,2020
+Singapore,Re-visit,123682,2020
+Vietnam,Total,131308,2020
+Vietnam,First visit,35654,2020
+Vietnam,Re-visit,95654,2020
+China,Total,1302137,2020
+China,First visit,597834,2020
+China,Re-visit,704303,2020
+HongKong,Total,131988,2020
+HongKong,First visit,13072,2020
+HongKong,Re-visit,118916,2020
+Japan,Total,314044,2020
+Japan,First visit,68280,2020
+Japan,Re-visit,245764,2020
+Korea,Total,262313,2020
+Korea,First visit,96148,2020
+Korea,Re-visit,166165,2020
+Taiwan,Total,114275,2020
+Taiwan,First visit,34485,2020
+Taiwan,Re-visit,79790,2020
+Others in East,Total,15299,2020
+Others in East,First visit,3485,2020
+Others in East,Re-visit,11814,2020
+Austria,Total,34599,2020
+Austria,First visit,9558,2020
+Austria,Re-visit,25041,2020
+Belgium,Total,25872,2020
+Belgium,First visit,7203,2020
+Belgium,Re-visit,18669,2020
+Denmark,Total,62962,2020
+Denmark,First visit,14789,2020
+Denmark,Re-visit,48173,2020
+Finland,Total,57927,2020
+Finland,First visit,11029,2020
+Finland,Re-visit,46898,2020
+France,Total,231614,2020
+France,First visit,83802,2020
+France,Re-visit,147812,2020
+Germany,Total,231260,2020
+Germany,First visit,71441,2020
+Germany,Re-visit,159819,2020
+Ireland,Total,9714,2020
+Ireland,First visit,3059,2020
+Ireland,Re-visit,6655,2020
+Italy,Total,58327,2020
+Italy,First visit,19836,2020
+Italy,Re-visit,38491,2020
+Netherlands,Total,50441,2020
+Netherlands,First visit,13876,2020
+Netherlands,Re-visit,36565,2020
+Norway,Total,39082,2020
+Norway,First visit,8158,2020
+Norway,Re-visit,30924,2020
+Russian,Total,586381,2020
+Russian,First visit,167933,2020
+Russian,Re-visit,418448,2020
+Spain,Total,26499,2020
+Spain,First visit,10564,2020
+Spain,Re-visit,15935,2020
+Sweden,Total,108921,2020
+Sweden,First visit,19717,2020
+Sweden,Re-visit,89204,2020
+Switzerland,Total,54006,2020
+Switzerland,First visit,10925,2020
+Switzerland,Re-visit,43081,2020
+UnitedKingdom,Total,215861,2020
+UnitedKingdom,First visit,55725,2020
+UnitedKingdom,Re-visit,160136,2020
+EastEurope,Total,211106,2020
+EastEurope,First visit,86696,2020
+EastEurope,Re-visit,124410,2020
+Others in Europe,Total,47166,2020
+Others in Europe,First visit,18864,2020
+Others in Europe,Re-visit,28302,2020
+Argentina,Total,12461,2020
+Argentina,First visit,4604,2020
+Argentina,Re-visit,7857,2020
+Brazil,Total,18200,2020
+Brazil,First visit,7205,2020
+Brazil,Re-visit,10995,2020
+Canada,Total,55984,2020
+Canada,First visit,18064,2020
+Canada,Re-visit,37920,2020
+USA,Total,208608,2020
+USA,First visit,69716,2020
+USA,Re-visit,138892,2020
+Others in America,Total,15997,2020
+Others in America,First visit,6905,2020
+Others in America,Re-visit,9092,2020
+Bangladesh,Total,22913,2020
+Bangladesh,First visit,5866,2020
+Bangladesh,Re-visit,17047,2020
+India,Total,265223,2020
+India,First visit,104702,2020
+India,Re-visit,160521,2020
+Nepal,Total,10396,2020
+Nepal,First visit,3621,2020
+Nepal,Re-visit,6775,2020
+Pakistan,Total,11519,2020
+Pakistan,First visit,3044,2020
+Pakistan,Re-visit,8475,2020
+SriLanka,Total,8375,2020
+SriLanka,First visit,1913,2020
+SriLanka,Re-visit,6462,2020
+Others in Asia,Total,8462,2020
+Others in Asia,First visit,1345,2020
+Others in Asia,Re-visit,7117,2020
+Australia,Total,123743,2020
+Australia,First visit,30931,2020
+Australia,Re-visit,92812,2020
+NewZealand,Total,13773,2020
+NewZealand,First visit,3756,2020
+NewZealand,Re-visit,10017,2020
+Others in Oceania,Total,1458,2020
+Others in Oceania,First visit,370,2020
+Others in Oceania,Re-visit,1088,2020
+Egypt,Total,3084,2020
+Egypt,First visit,1222,2020
+Egypt,Re-visit,1862,2020
+Israel,Total,29568,2020
+Israel,First visit,8104,2020
+Israel,Re-visit,21464,2020
+Kuwait,Total,11149,2020
+Kuwait,First visit,2392,2020
+Kuwait,Re-visit,8757,2020
+SaudiArabia,Total,6372,2020
+SaudiArabia,First visit,2383,2020
+SaudiArabia,Re-visit,3989,2020
+UnitedArabEmirates,Total,9550,2020
+UnitedArabEmirates,First visit,1688,2020
+UnitedArabEmirates,Re-visit,7862,2020
+Others in Middle East,Total,25507,2020
+Others in Middle East,First visit,6168,2020
+Others in Middle East,Re-visit,19339,2020
+SouthAfrica,Total,9692,2020
+SouthAfrica,First visit,3472,2020
+SouthAfrica,Re-visit,6220,2020
+Others in Africa,Total,15371,2020
+Others in Africa,First visit,4034,2020
+Others in Africa,Re-visit,11337,2020

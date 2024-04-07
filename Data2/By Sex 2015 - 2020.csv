@@ -1,0 +1,649 @@
+Year,No of Arrivals,Sex,Country of Residence
+2015,9807,Male,Brunai
+2015,7626,Female,Brunai
+2015,263202,Male,Cambodia
+2015,281616,Female,Cambodia
+2015,238360,Male,Indonesia
+2015,232460,Female,Indonesia
+2015,670901,Male,Laos
+2015,559620,Female,Laos
+2015,1430567,Male,Malaysia
+2015,1976986,Female,Malaysia
+2015,132604,Male,Myanmar
+2015,130818,Female,Myanmar
+2015,139077,Male,Philippines
+2015,162220,Female,Philippines
+2015,592015,Male,Singapore
+2015,482740,Female,Singapore
+2015,371913,Male,Vietnam
+2015,395730,Female,Vietnam
+2015,3456737,Male,China
+2015,4524670,Female,China
+2015,349419,Male,HongKong
+2015,359016,Female,HongKong
+2015,968087,Male,Japan
+2015,381301,Female,Japan
+2015,715226,Male,Korea
+2015,643985,Female,Korea
+2015,275964,Male,Taiwan
+2015,269596,Female,Taiwan
+2015,34399,Male,Others in East
+2015,37267,Female,Others in East
+2015,57398,Male,Austria
+2015,37480,Female,Austria
+2015,65913,Male,Belgium
+2015,41782,Female,Belgium
+2015,90292,Male,Denmark
+2015,69128,Female,Denmark
+2015,79006,Male,Finland
+2015,56101,Female,Finland
+2015,375614,Male,France
+2015,272768,Female,France
+2015,439297,Male,Germany
+2015,306838,Female,Germany
+2015,0,Male,Ireland
+2015,0,Female,Ireland
+2015,140105,Male,Italy
+2015,91324,Female,Italy
+2015,126155,Male,Netherlands
+2015,88790,Female,Netherlands
+2015,83550,Male,Norway
+2015,54474,Female,Norway
+2015,399059,Male,Russian
+2015,478061,Female,Russian
+2015,79373,Male,Spain
+2015,68007,Female,Spain
+2015,180770,Male,Sweden
+2015,137022,Female,Sweden
+2015,131207,Male,Switzerland
+2015,88760,Female,Switzerland
+2015,545310,Male,UnitedKingdom
+2015,351281,Female,UnitedKingdom
+2015,183527,Male,EastEurope
+2015,162825,Female,EastEurope
+2015,124277,Male,Others in Europe
+2015,71287,Female,Others in Europe
+2015,14479,Male,Argentina
+2015,13571,Female,Argentina
+2015,23763,Male,Brazil
+2015,20651,Female,Brazil
+2015,122823,Male,Canada
+2015,87274,Female,Canada
+2015,490741,Male,USA
+2015,336369,Female,USA
+2015,31644,Male,Others in America
+2015,27517,Female,Others in America
+2015,69526,Male,Bangladesh
+2015,39507,Female,Bangladesh
+2015,714917,Male,India
+2015,324478,Female,India
+2015,22369,Male,Nepal
+2015,10956,Female,Nepal
+2015,56760,Male,Pakistan
+2015,19606,Female,Pakistan
+2015,49617,Male,SriLanka
+2015,25978,Female,SriLanka
+2015,26379,Male,Others in Asia
+2015,14199,Female,Others in Asia
+2015,477235,Male,Australia
+2015,338818,Female,Australia
+2015,57781,Male,NewZealand
+2015,44490,Female,NewZealand
+2015,3510,Male,Others in Oceania
+2015,2052,Female,Others in Oceania
+2015,14548,Male,Egypt
+2015,8303,Female,Egypt
+2015,79434,Male,Israel
+2015,59065,Female,Israel
+2015,50651,Male,Kuwait
+2015,22179,Female,Kuwait
+2015,18573,Male,SaudiArabia
+2015,6580,Female,SaudiArabia
+2015,100214,Male,UnitedArabEmirates
+2015,71302,Female,UnitedArabEmirates
+2015,191876,Male,Others in Middle East
+2015,98066,Female,Others in Middle East
+2015,41780,Male,RepublicofSouthAfrica
+2015,32617,Female,RepublicofSouthAfrica
+2015,50318,Male,Others in Africa
+2015,39959,Female,Others in Africa
+2016,9225,Male,Brunai
+2016,8769,Female,Brunai
+2016,254460,Male,Cambodia
+2016,430376,Female,Cambodia
+2016,241624,Male,Indonesia
+2016,316875,Female,Indonesia
+2016,703471,Male,Laos
+2016,711445,Female,Laos
+2016,1369106,Male,Malaysia
+2016,2137093,Female,Malaysia
+2016,157706,Male,Myanmar
+2016,206165,Female,Myanmar
+2016,136841,Male,Philippines
+2016,187019,Female,Philippines
+2016,622716,Male,Singapore
+2016,540593,Female,Singapore
+2016,373219,Male,Vietnam
+2016,490588,Female,Vietnam
+2016,3499440,Male,China
+2016,5321708,Female,China
+2016,326107,Male,HongKong
+2016,364358,Female,HongKong
+2016,964017,Male,Japan
+2016,452886,Female,Japan
+2016,729859,Male,Korea
+2016,719758,Female,Korea
+2016,226999,Male,Taiwan
+2016,286529,Female,Taiwan
+2016,32638,Male,Others in East
+2016,39763,Female,Others in East
+2016,57316,Male,Austria
+2016,40673,Female,Austria
+2016,66853,Male,Belgium
+2016,45287,Female,Belgium
+2016,86742,Male,Denmark
+2016,76664,Female,Denmark
+2016,74637,Male,Finland
+2016,56570,Female,Finland
+2016,384799,Male,France
+2016,312939,Female,France
+2016,467114,Male,Germany
+2016,358382,Female,Germany
+2016,34183,Male,Ireland
+2016,25374,Female,Ireland
+2016,143285,Male,Italy
+2016,105618,Female,Italy
+2016,129264,Male,Netherlands
+2016,99179,Female,Netherlands
+2016,80920,Male,Norway
+2016,53415,Female,Norway
+2016,490195,Male,Russian
+2016,595695,Female,Russian
+2016,86579,Male,Spain
+2016,81685,Female,Spain
+2016,179662,Male,Sweden
+2016,149408,Female,Sweden
+2016,133754,Male,Switzerland
+2016,92658,Female,Switzerland
+2016,558988,Male,UnitedKingdom
+2016,402483,Female,UnitedKingdom
+2016,191248,Male,EastEurope
+2016,187905,Female,EastEurope
+2016,94617,Male,Others in Europe
+2016,64307,Female,Others in Europe
+2016,22762,Male,Argentina
+2016,23628,Female,Argentina
+2016,31813,Male,Brazil
+2016,31326,Female,Brazil
+2016,122207,Male,Canada
+2016,100151,Female,Canada
+2016,521216,Male,USA
+2016,417646,Female,USA
+2016,33491,Male,Others in America
+2016,37233,Female,Others in America
+2016,63554,Male,Bangladesh
+2016,40062,Female,Bangladesh
+2016,700630,Male,India
+2016,376340,Female,India
+2016,26229,Male,Nepal
+2016,16941,Female,Nepal
+2016,48539,Male,Pakistan
+2016,23181,Female,Pakistan
+2016,39697,Male,SriLanka
+2016,28179,Female,SriLanka
+2016,24593,Male,Others in Asia
+2016,17689,Female,Others in Asia
+2016,453585,Male,Australia
+2016,359432,Female,Australia
+2016,53741,Male,NewZealand
+2016,45661,Female,NewZealand
+2016,3310,Male,Others in Oceania
+2016,2809,Female,Others in Oceania
+2016,14675,Male,Egypt
+2016,10238,Female,Egypt
+2016,86994,Male,Israel
+2016,74260,Female,Israel
+2016,42543,Male,Kuwait
+2016,25625,Female,Kuwait
+2016,22410,Male,SaudiArabia
+2016,10628,Female,SaudiArabia
+2016,102717,Male,UnitedArabEmirates
+2016,84948,Female,UnitedArabEmirates
+2016,203576,Male,Others in Middle East
+2016,142844,Female,Others in Middle East
+2016,42862,Male,RepublicofSouthAfrica
+2016,33679,Female,RepublicofSouthAfrica
+2016,43838,Male,Others in Africa
+2016,52355,Female,Others in Africa
+2017,8663,Male,Brunai
+2017,9797,Female,Brunai
+2017,434693,Male,Cambodia
+2017,516287,Female,Cambodia
+2017,270279,Male,Indonesia
+2017,374200,Female,Indonesia
+2017,808692,Male,Laos
+2017,873612,Female,Laos
+2017,1861556,Male,Malaysia
+2017,2181442,Female,Malaysia
+2017,163166,Male,Myanmar
+2017,216714,Female,Myanmar
+2017,155403,Male,Philippines
+2017,252429,Female,Philippines
+2017,585265,Male,Singapore
+2017,582847,Female,Singapore
+2017,438032,Male,Vietnam
+2017,615691,Female,Vietnam
+2017,4197122,Male,China
+2017,6428045,Female,China
+2017,456507,Male,HongKong
+2017,591052,Female,HongKong
+2017,971921,Male,Japan
+2017,670791,Female,Japan
+2017,825563,Male,Korea
+2017,959584,Female,Korea
+2017,285352,Male,Taiwan
+2017,388820,Female,Taiwan
+2017,43137,Male,Others in East
+2017,58784,Female,Others in East
+2017,63302,Male,Austria
+2017,51466,Female,Austria
+2017,67171,Male,Belgium
+2017,49175,Female,Belgium
+2017,93638,Male,Denmark
+2017,76406,Female,Denmark
+2017,73225,Male,Finland
+2017,62159,Female,Finland
+2017,392847,Male,France
+2017,331503,Female,France
+2017,489269,Male,Germany
+2017,382916,Female,Germany
+2017,31130,Male,Ireland
+2017,27547,Female,Ireland
+2017,151676,Male,Italy
+2017,111839,Female,Italy
+2017,124407,Male,Netherlands
+2017,102211,Female,Netherlands
+2017,76105,Male,Norway
+2017,56915,Female,Norway
+2017,616855,Male,Russian
+2017,849602,Female,Russian
+2017,90105,Male,Spain
+2017,86492,Female,Spain
+2017,169533,Male,Sweden
+2017,134673,Female,Sweden
+2017,130535,Male,Switzerland
+2017,95450,Female,Switzerland
+2017,532040,Male,UnitedKingdom
+2017,422364,Female,UnitedKingdom
+2017,230355,Male,EastEurope
+2017,257314,Female,EastEurope
+2017,97491,Male,Others in Europe
+2017,75979,Female,Others in Europe
+2017,19782,Male,Argentina
+2017,23703,Female,Argentina
+2017,27247,Male,Brazil
+2017,29858,Female,Brazil
+2017,132208,Male,Canada
+2017,120555,Female,Canada
+2017,581166,Male,USA
+2017,515011,Female,USA
+2017,38570,Male,Others in America
+2017,45908,Female,Others in America
+2017,72714,Male,Bangladesh
+2017,53095,Female,Bangladesh
+2017,956696,Male,India
+2017,606182,Female,India
+2017,31619,Male,Nepal
+2017,23863,Female,Nepal
+2017,49868,Male,Pakistan
+2017,28388,Female,Pakistan
+2017,35907,Male,SriLanka
+2017,26790,Female,SriLanka
+2017,27415,Male,Others in Asia
+2017,23346,Female,Others in Asia
+2017,441653,Male,Australia
+2017,360581,Female,Australia
+2017,52147,Male,NewZealand
+2017,48740,Female,NewZealand
+2017,4160,Male,Others in Oceania
+2017,3757,Female,Others in Oceania
+2017,9658,Male,Egypt
+2017,8503,Female,Egypt
+2017,97724,Male,Israel
+2017,87642,Female,Israel
+2017,45169,Male,Kuwait
+2017,32196,Female,Kuwait
+2017,22733,Male,SaudiArabia
+2017,12357,Female,SaudiArabia
+2017,78831,Male,UnitedArabEmirates
+2017,72306,Female,UnitedArabEmirates
+2017,172553,Male,Others in Middle East
+2017,128124,Female,Others in Middle East
+2017,44004,Male,RepublicofSouthAfrica
+2017,53067,Female,RepublicofSouthAfrica
+2017,47750,Male,Others in Africa
+2017,55507,Female,Others in Africa
+2018,8663,Male,Brunai
+2018,9797,Female,Brunai
+2018,434693,Male,Cambodia
+2018,516287,Female,Cambodia
+2018,270279,Male,Indonesia
+2018,374200,Female,Indonesia
+2018,808692,Male,Laos
+2018,873612,Female,Laos
+2018,1861556,Male,Malaysia
+2018,2181442,Female,Malaysia
+2018,163166,Male,Myanmar
+2018,216714,Female,Myanmar
+2018,155403,Male,Philippines
+2018,252429,Female,Philippines
+2018,585265,Male,Singapore
+2018,582847,Female,Singapore
+2018,438032,Male,Vietnam
+2018,615691,Female,Vietnam
+2018,4197122,Male,China
+2018,6428045,Female,China
+2018,456507,Male,HongKong
+2018,591052,Female,HongKong
+2018,971921,Male,Japan
+2018,670791,Female,Japan
+2018,825563,Male,Korea
+2018,959584,Female,Korea
+2018,285352,Male,Taiwan
+2018,388820,Female,Taiwan
+2018,43137,Male,Others in East
+2018,58784,Female,Others in East
+2018,63302,Male,Austria
+2018,51466,Female,Austria
+2018,67171,Male,Belgium
+2018,49175,Female,Belgium
+2018,93638,Male,Denmark
+2018,76406,Female,Denmark
+2018,73225,Male,Finland
+2018,62159,Female,Finland
+2018,392847,Male,France
+2018,331503,Female,France
+2018,489269,Male,Germany
+2018,382916,Female,Germany
+2018,31130,Male,Ireland
+2018,27547,Female,Ireland
+2018,151676,Male,Italy
+2018,111839,Female,Italy
+2018,124407,Male,Netherlands
+2018,102211,Female,Netherlands
+2018,76105,Male,Norway
+2018,56915,Female,Norway
+2018,616855,Male,Russian
+2018,849602,Female,Russian
+2018,90105,Male,Spain
+2018,86492,Female,Spain
+2018,169533,Male,Sweden
+2018,134673,Female,Sweden
+2018,130535,Male,Switzerland
+2018,95450,Female,Switzerland
+2018,532040,Male,UnitedKingdom
+2018,422364,Female,UnitedKingdom
+2018,230355,Male,EastEurope
+2018,257314,Female,EastEurope
+2018,97491,Male,Others in Europe
+2018,75979,Female,Others in Europe
+2018,19782,Male,Argentina
+2018,23703,Female,Argentina
+2018,27247,Male,Brazil
+2018,29858,Female,Brazil
+2018,132208,Male,Canada
+2018,120555,Female,Canada
+2018,581166,Male,USA
+2018,515011,Female,USA
+2018,38570,Male,Others in America
+2018,45908,Female,Others in America
+2018,72714,Male,Bangladesh
+2018,53095,Female,Bangladesh
+2018,956696,Male,India
+2018,606182,Female,India
+2018,31619,Male,Nepal
+2018,23863,Female,Nepal
+2018,49868,Male,Pakistan
+2018,28388,Female,Pakistan
+2018,35907,Male,SriLanka
+2018,26790,Female,SriLanka
+2018,27415,Male,Others in Asia
+2018,23346,Female,Others in Asia
+2018,441653,Male,Australia
+2018,360581,Female,Australia
+2018,52147,Male,NewZealand
+2018,48740,Female,NewZealand
+2018,4160,Male,Others in Oceania
+2018,3757,Female,Others in Oceania
+2018,9658,Male,Egypt
+2018,8503,Female,Egypt
+2018,97724,Male,Israel
+2018,87642,Female,Israel
+2018,45169,Male,Kuwait
+2018,32196,Female,Kuwait
+2018,22733,Male,SaudiArabia
+2018,12357,Female,SaudiArabia
+2018,78831,Male,UnitedArabEmirates
+2018,72306,Female,UnitedArabEmirates
+2018,172553,Male,Others in Middle East
+2018,128124,Female,Others in Middle East
+2018,44004,Male,RepublicofSouthAfrica
+2018,53067,Female,RepublicofSouthAfrica
+2018,47750,Male,Others in Africa
+2018,55507,Female,Others in Africa
+2019,10070,Male,Brunai
+2019,9788,Female,Brunai
+2019,418747,Male,Cambodia
+2019,506690,Female,Cambodia
+2019,303226,Male,Indonesia
+2019,403682,Female,Indonesia
+2019,790761,Male,Laos
+2019,1066001,Female,Laos
+2019,1910097,Male,Malaysia
+2019,2364361,Female,Malaysia
+2019,171461,Male,Myanmar
+2019,217840,Female,Myanmar
+2019,182011,Male,Philippines
+2019,291554,Female,Philippines
+2019,595048,Male,Singapore
+2019,554976,Female,Singapore
+2019,465919,Male,Vietnam
+2019,614690,Female,Vietnam
+2019,4418222,Male,China
+2019,6720436,Female,China
+2019,496244,Male,HongKong
+2019,593877,Female,HongKong
+2019,1052977,Male,Japan
+2019,734208,Female,Japan
+2019,920763,Male,Korea
+2019,959702,Female,Korea
+2019,350144,Male,Taiwan
+2019,431530,Female,Taiwan
+2019,50907,Male,Others in East
+2019,64031,Female,Others in East
+2019,62574,Male,Austria
+2019,48116,Female,Austria
+2019,67056,Male,Belgium
+2019,46960,Female,Belgium
+2019,88704,Male,Denmark
+2019,70822,Female,Denmark
+2019,69691,Male,Finland
+2019,55799,Female,Finland
+2019,392180,Male,France
+2019,321225,Female,France
+2019,478638,Male,Germany
+2019,358288,Female,Germany
+2019,30977,Male,Ireland
+2019,23367,Female,Ireland
+2019,147319,Male,Italy
+2019,103551,Female,Italy
+2019,129543,Male,Netherlands
+2019,100463,Female,Netherlands
+2019,76817,Male,Norway
+2019,53692,Female,Norway
+2019,617304,Male,Russian
+2019,864533,Female,Russian
+2019,96869,Male,Spain
+2019,90100,Female,Spain
+2019,158358,Male,Sweden
+2019,121093,Female,Sweden
+2019,122196,Male,Switzerland
+2019,83891,Female,Switzerland
+2019,545623,Male,UnitedKingdom
+2019,401151,Female,UnitedKingdom
+2019,256526,Male,EastEurope
+2019,276385,Female,EastEurope
+2019,99009,Male,Others in Europe
+2019,72400,Female,Others in Europe
+2019,13452,Male,Argentina
+2019,14731,Female,Argentina
+2019,28854,Male,Brazil
+2019,30116,Female,Brazil
+2019,137443,Male,Canada
+2019,115131,Female,Canada
+2019,619675,Male,USA
+2019,516535,Female,USA
+2019,38779,Male,Others in America
+2019,45084,Female,Others in America
+2019,87585,Male,Bangladesh
+2019,52037,Female,Bangladesh
+2019,1264136,Male,India
+2019,696933,Female,India
+2019,37435,Male,Nepal
+2019,22993,Female,Nepal
+2019,51030,Male,Pakistan
+2019,20887,Female,Pakistan
+2019,44735,Male,SriLanka
+2019,25512,Female,SriLanka
+2019,30873,Male,Others in Asia
+2019,22821,Female,Others in Asia
+2019,435829,Male,Australia
+2019,335969,Female,Australia
+2019,50763,Male,NewZealand
+2019,42977,Female,NewZealand
+2019,5040,Male,Others in Oceania
+2019,3576,Female,Others in Oceania
+2019,11240,Male,Egypt
+2019,7770,Female,Egypt
+2019,106004,Male,Israel
+2019,88077,Female,Israel
+2019,50751,Male,Kuwait
+2019,33753,Female,Kuwait
+2019,25113,Male,SaudiArabia
+2019,11670,Female,SaudiArabia
+2019,78448,Male,UnitedArabEmirates
+2019,67082,Female,UnitedArabEmirates
+2019,151951,Male,Others in Middle East
+2019,95459,Female,Others in Middle East
+2019,42423,Male,RepublicofSouthAfrica
+2019,47327,Female,RepublicofSouthAfrica
+2019,54142,Male,Others in Africa
+2019,52927,Female,Others in Africa
+2020,1407,Male,Brunai
+2020,1037,Female,Brunai
+2020,73303,Male,Cambodia
+2020,90967,Female,Cambodia
+2020,44024,Male,Indonesia
+2020,52969,Female,Indonesia
+2020,155365,Male,Laos
+2020,226881,Female,Laos
+2020,276251,Male,Malaysia
+2020,336671,Female,Malaysia
+2020,25990,Male,Myanmar
+2020,28951,Female,Myanmar
+2020,28155,Male,Philippines
+2020,40204,Female,Philippines
+2020,77446,Male,Singapore
+2020,55065,Female,Singapore
+2020,58765,Male,Vietnam
+2020,72543,Female,Vietnam
+2020,542879,Male,China
+2020,759258,Female,China
+2020,65661,Male,HongKong
+2020,66327,Female,HongKong
+2020,194329,Male,Japan
+2020,119715,Female,Japan
+2020,141848,Male,Korea
+2020,120465,Female,Korea
+2020,53447,Male,Taiwan
+2020,60828,Female,Taiwan
+2020,7180,Male,Others in East
+2020,8119,Female,Others in East
+2020,19445,Male,Austria
+2020,15154,Female,Austria
+2020,15794,Male,Belgium
+2020,10078,Female,Belgium
+2020,32894,Male,Denmark
+2020,30068,Female,Denmark
+2020,30991,Male,Finland
+2020,26936,Female,Finland
+2020,124827,Male,France
+2020,106787,Female,France
+2020,132113,Male,Germany
+2020,99147,Female,Germany
+2020,5899,Male,Ireland
+2020,3815,Female,Ireland
+2020,34450,Male,Italy
+2020,23877,Female,Italy
+2020,29209,Male,Netherlands
+2020,21232,Female,Netherlands
+2020,22241,Male,Norway
+2020,16841,Female,Norway
+2020,250573,Male,Russian
+2020,335808,Female,Russian
+2020,14546,Male,Spain
+2020,11953,Female,Spain
+2020,58609,Male,Sweden
+2020,50312,Female,Sweden
+2020,31317,Male,Switzerland
+2020,22689,Female,Switzerland
+2020,128139,Male,UnitedKingdom
+2020,87722,Female,UnitedKingdom
+2020,103753,Male,EastEurope
+2020,107353,Female,EastEurope
+2020,28672,Male,Others in Europe
+2020,18494,Female,Others in Europe
+2020,6020,Male,Argentina
+2020,6441,Female,Argentina
+2020,8898,Male,Brazil
+2020,9302,Female,Brazil
+2020,31617,Male,Canada
+2020,24367,Female,Canada
+2020,119010,Male,USA
+2020,89598,Female,USA
+2020,7475,Male,Others in America
+2020,8522,Female,Others in America
+2020,15910,Male,Bangladesh
+2020,7003,Female,Bangladesh
+2020,182294,Male,India
+2020,82929,Female,India
+2020,6735,Male,Nepal
+2020,3661,Female,Nepal
+2020,8954,Male,Pakistan
+2020,2565,Female,Pakistan
+2020,5957,Male,SriLanka
+2020,2418,Female,SriLanka
+2020,4908,Male,Others in Asia
+2020,3554,Female,Others in Asia
+2020,72807,Male,Australia
+2020,50936,Female,Australia
+2020,7876,Male,NewZealand
+2020,5897,Female,NewZealand
+2020,859,Male,Others in Oceania
+2020,599,Female,Others in Oceania
+2020,1788,Male,Egypt
+2020,1296,Female,Egypt
+2020,16712,Male,Israel
+2020,12856,Female,Israel
+2020,6965,Male,Kuwait
+2020,4184,Female,Kuwait
+2020,4377,Male,SaudiArabia
+2020,1995,Female,SaudiArabia
+2020,5841,Male,UnitedArabEmirates
+2020,3709,Female,UnitedArabEmirates
+2020,17122,Male,Others in Middle East
+2020,8385,Female,Others in Middle East
+2020,5084,Male,RepublicofSouthAfrica
+2020,4608,Female,RepublicofSouthAfrica
+2020,8306,Male,Others in Africa
+2020,7065,Female,Others in Africa
