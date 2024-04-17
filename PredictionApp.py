@@ -29,6 +29,12 @@ Spending = base64.b64encode(open("picture/Spending.png", "rb").read()).decode("u
 Spending = f"data:image/png;base64,{Spending}"
 StayDays = base64.b64encode(open("picture/StayDays.png", "rb").read()).decode("utf-8")
 StayDays = f"data:image/png;base64,{StayDays}"
+Profit = base64.b64encode(open("picture/Profit.png", "rb").read()).decode("utf-8")
+Profit = f"data:image/png;base64,{Profit}"
+Month = base64.b64encode(open("picture/Month.png", "rb").read()).decode("utf-8")
+Month = f"data:image/png;base64,{Month}"
+Show = base64.b64encode(open("picture/Show.png", "rb").read()).decode("utf-8")
+Show = f"data:image/png;base64,{Show}"
 
 dashboard = base64.b64encode(open("picture/Dashboard.png", "rb").read()).decode("utf-8")
 dashboard = f"data:image/png;base64,{dashboard}"
@@ -39,8 +45,9 @@ dashboard2 = f"data:image/png;base64,{dashboard2}"
 
 dfQuart = pd.read_csv('Data3/NoOfArrivals.csv')
 dfStd = pd.read_csv('Data3/NoOfArrivals2CvdDeleted.csv')
-dfList = [dfQuart, dfStd]
-nameList = ['Arrival', 'Arrival2']
+dfMonth = pd.read_csv('Data3/NoOfArrivals3Foreign.csv')
+dfList = [dfQuart, dfStd, dfMonth]
+nameList = ['Arrival', 'Arrival2', 'Arrival3']
 
 CountryToRegion = {}
 for i, row in dfQuart.iterrows():
@@ -93,27 +100,19 @@ style={'display': 'flex', 'flex-direction': 'row', 'height': '400px'}
 
 app.layout = html.Div(children=[
 
-    html.H1('アンケートフォーム', style={'background-color': '#e6e6ff'}),
+    html.H1('DSS Thailand Tourism Industry', style={'background-color': '#e6e6ff'}),
     html.Div(style={'display': 'flex', 'flex-direction': 'row', 'height': '400px'}, children=[
     html.Div(style={'width': '30%'}, children=[
     html.Div(children=[
-        html.Img(src=nationality, alt="Example Image"),
+        html.Img(style={'width': '30%', 'height': '30%'}, src=nationality, alt="Example Image"),
         dcc.Dropdown(
             id='nationality-dropdown',
             options=[{'label': r, 'value': r} for r in nationalities],
             value=nationalities[0],
         ),
-    ]),
-    # html.Div(children=[
-    #     html.Label('Region:'),
-    #     dcc.Dropdown(
-    #         id='region-dropdown',
-    #         options=[{'label': r, 'value': region_dict[r]} for r in regions],
-    #         value=region_dict[regions[0]]
-    #     ),
-    # ]),    
+    ]),  
     html.Div(children=[
-        html.Img(src=StayDays, alt="Example Image"),
+        html.Img(style={'width': '30%', 'height': '30%'}, src=StayDays, alt="Example Image"),
         html.P(''),
         dcc.Dropdown(
             id='stay-days-dropdown',
@@ -122,40 +121,47 @@ app.layout = html.Div(children=[
 
         ),
     ]),
-    # html.Div(children=[
-    #     html.Label('Covid:'),
-    #     dcc.Dropdown(
-    #         id='covid-dropdown',
-    #         options=[{'label': str(d), 'value': covid_dict[d]} for d in isCovid],
-    #         value=covid_dict[isCovid[0]]
-    #     ),
-    # ]),
     html.Div(children=[
         html.Img(style={'width': '20%', 'height': '20%'}, src=Spending, alt="Example Image"),
         html.P(''),
         dcc.Input(id='spending', type='number', value='初期値')
     ]),
     html.Div(children=[
-        html.Img(src=Receipts, alt="Example Image"),
+        html.Img(style={'width': '20%', 'height': '20%'}, src=Receipts, alt="Example Image"),
         html.P(''),
         dcc.Input(id='receipt', type='number', value='初期値')
     ]),
     html.Div(children=[
-        html.Img(src=year, alt="Example Image"),
+        html.Img(style={'width': '20%', 'height': '20%'}, src=Profit, alt="Example Image"),
+        html.P(''),
+        dcc.Input(id='profit', type='number', value='初期値')
+    ]),
+    html.Div(children=[
+        html.Img(style={'width': '10%', 'height': '10%'}, src=year, alt="Example Image"),
         html.P(''),
         dcc.Input(id='year', type='number', value='初期値')
     ]),
     html.Div(children=[
-        html.Img(src=Inflation, alt="Example Image"),
+        html.Img(style={'width': '20%', 'height': '20%'}, src=Month, alt="Example Image"),
+        html.P(''),
+        dcc.Input(id='month', type='number', value='初期値')
+    ]),
+    html.Div(children=[
+        html.Img(style={'width': '20%', 'height': '20%'}, src=Inflation, alt="Example Image"),
         html.P(''),
         dcc.Input(id='inflation', type='number', value='初期値')
     ]),
     html.Div(children=[
-        html.Img(src=GDP, alt="Example Image"),
+        html.Img(style={'width': '10%', 'height': '10%'}, src=GDP, alt="Example Image"),
         html.P(''),
         dcc.Input(id='gdp', type='number', value='初期値')
     ]),
-    html.Button('表示', id='button'),
+    html.Button(
+                children=[
+            html.Img(src=Show, className="button-image")
+        ],
+        className="button-container",
+        id="button",),
     html.Div(id='output-container', children=[])
     ]),
     html.Div(children=[
@@ -164,8 +170,6 @@ app.layout = html.Div(children=[
     ])
     ])
     ]
-
-
 )
 
 
@@ -173,10 +177,10 @@ app.layout = html.Div(children=[
     Output('output-container', 'children'),
     [
         Input('button', 'n_clicks'),
-        # Input('region-dropdown', 'value'),
+        Input('profit', 'value'),
         Input('nationality-dropdown', 'value'),
         Input('stay-days-dropdown', 'value'),
-        # Input('covid-dropdown', 'value'),
+        Input('month', 'value'),
         Input('spending', 'value'),
         Input('receipt', 'value'),
         Input('year', 'value'),
@@ -186,10 +190,10 @@ app.layout = html.Div(children=[
 )
 def update_output(
     n_clicks,
-    # selected_region,
+    profit,
     selected_nationality,
     selected_staydays,
-    # selected_covid,
+    month,
     selected_spending,
     selected_receipt,
     selected_year,
@@ -198,56 +202,71 @@ def update_output(
 ):
     model1 = joblib.load('Model1.joblib')
     model2 = joblib.load('Model2.joblib')
-    print('a')
-    print(contentsDict['Arrival']['Country'][1][selected_nationality])
-    print('b')
-    # print(CountryToRegion)
-    print(CountryToRegion[selected_nationality])
+    model3 = joblib.load('Model3.joblib')
     nationality = contentsDict['Arrival']['Country'][1][selected_nationality]
     selected_region = contentsDict['Arrival']['Region'][1][CountryToRegion[selected_nationality]]
     if n_clicks is None:
         return []
-# try:
-    pred1 = Pred1(
-        model1,
-        nationality,
-        selected_staydays,
-        selected_spending,
-        selected_receipt,
-        selected_region,
-        selected_year)
+    try:
+        pred1 = Pred1(
+            model1,
+            nationality,
+            selected_staydays,
+            selected_spending,
+            selected_receipt,
+            selected_region,
+            selected_year)
 
-    pred2 = Pred2(
-        model2,
-        nationality,
-        selected_inflation,
-        selected_year,
-        selected_gdp,
-        selected_staydays,
-        selected_spending,
-        selected_receipt,
-        selected_region,
-        # selected_covid
-    )
-    pred_y = ensemble_learning(
-        pred1,
-        pred2
+        pred2 = Pred2(
+            model2,
+            nationality,
+            selected_inflation,
+            selected_year,
+            selected_gdp,
+            selected_staydays,
+            selected_spending,
+            selected_receipt,
+            selected_region,
+            # selected_covid
         )
-    return[
-        html.Img(src=output, alt="Example Image"),
-        html.P('Preds: {}'.format(pred_y))
-    ]
+        pred2 = Pred2(
+            model2,
+            nationality,
+            selected_inflation,
+            selected_year,
+            selected_gdp,
+            selected_staydays,
+            selected_spending,
+            selected_receipt,
+            selected_region,
+            # selected_covid
+        )
+        pred3 = Pred3(
+            model3,
+            month,
+            selected_year,
+            profit
+        )
+        pred_y = ensemble_learning(
+            pred1,
+            pred2,
+            pred3
+            )
+        return[
+            html.Img(src=output, alt="Example Image"),
+            html.P('Preds: {}'.format(pred_y))
+        ]
 
-    # except:
-    #     print(selected_nationality,
-    #         selected_inflation,
-    #         selected_year,
-    #         selected_gdp,
-    #         selected_staydays,
-    #         selected_spending,
-    #         selected_receipt,
-    #         selected_region,)
-    #     return [html.P('something is missed')]
+    except:
+        print(selected_nationality,
+            selected_inflation,
+            selected_year,
+            selected_gdp,
+            selected_staydays,
+            selected_spending,
+            selected_receipt,
+            selected_region,)
+        return [html.P('something is missed')]
 
 def Pred1(Model, Country, StayDays, Spending, Receipts, Region, Year):
     # numecallize input
@@ -285,9 +304,22 @@ def Pred2(Model, Country, Inflation, Year, GDP, StayDays, Spending , Receipts, R
     return(Model.predict(x_pred))
 
 
-def ensemble_learning(a, b):
-    weights = [0.4995045442723615, 0.5004954557276384]
-    y_pred = np.dot(weights, [a, b])
+def Pred3(Model, Month, Year, Profit):
+    # numecallize input
+    inputs = [
+        Month,
+        Year,
+        Profit
+              ]
+    x_pred = np.array([inputs])
+    poly = PolynomialFeatures(degree=2)
+    x_pred = poly.fit_transform(x_pred)
+    return(Model.predict(x_pred))
+
+
+def ensemble_learning(a, b, c):
+    weights = [0.32088682992086176, 0.33996238747906743, 0.3391507826000708]
+    y_pred = np.dot(weights, [a, b, c])
     return y_pred
 
 
