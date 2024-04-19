@@ -19,40 +19,21 @@ output = base64.b64encode(open("picture/Output.png", "rb").read()).decode("utf-8
 output = f"data:image/png;base64,{output}"
 year = base64.b64encode(open("picture/Year.png", "rb").read()).decode("utf-8")
 year = f"data:image/png;base64,{year}"
-GDP = base64.b64encode(open("picture/GDP.png", "rb").read()).decode("utf-8")
-GDP = f"data:image/png;base64,{GDP}"
-Inflation = base64.b64encode(open("picture/Inflation.png", "rb").read()).decode("utf-8")
-Inflation = f"data:image/png;base64,{Inflation}"
 Receipts = base64.b64encode(open("picture/Receipts.png", "rb").read()).decode("utf-8")
 Receipts = f"data:image/png;base64,{Receipts}"
-Spending = base64.b64encode(open("picture/Spending.png", "rb").read()).decode("utf-8")
-Spending = f"data:image/png;base64,{Spending}"
-StayDays = base64.b64encode(open("picture/StayDays.png", "rb").read()).decode("utf-8")
-StayDays = f"data:image/png;base64,{StayDays}"
-Profit = base64.b64encode(open("picture/Profit.png", "rb").read()).decode("utf-8")
-Profit = f"data:image/png;base64,{Profit}"
-Month = base64.b64encode(open("picture/Month.png", "rb").read()).decode("utf-8")
-Month = f"data:image/png;base64,{Month}"
 Show = base64.b64encode(open("picture/Show.png", "rb").read()).decode("utf-8")
 Show = f"data:image/png;base64,{Show}"
 
 dashboard = base64.b64encode(open("picture/Dashboard.png", "rb").read()).decode("utf-8")
 dashboard = f"data:image/png;base64,{dashboard}"
-dashboard2 = base64.b64encode(open("picture/Dashboard2.png", "rb").read()).decode("utf-8")
-dashboard2 = f"data:image/png;base64,{dashboard2}"
 
 
 
 dfQuart = pd.read_csv('Data3/NoOfArrivals.csv')
 dfStd = pd.read_csv('Data3/NoOfArrivals2CvdDeleted.csv')
 dfMonth = pd.read_csv('Data3/NoOfArrivals3Foreign.csv')
-dfList = [dfQuart, dfStd, dfMonth]
-nameList = ['Arrival', 'Arrival2', 'Arrival3']
-
-CountryToRegion = {}
-for i, row in dfQuart.iterrows():
-    if row['Country'] not in CountryToRegion:
-        CountryToRegion[row['Country']] = row['Region']
+dfList = [dfQuart, dfStd]
+nameList = ['Arrival', 'Arrival2']
 
 contentsDict = {}
 for i, df in enumerate(dfList):
@@ -77,23 +58,14 @@ for i, df in enumerate(dfList):
 
 
 nationalities_dict = contentsDict['Arrival']['Country'][1]
-region_dict = contentsDict['Arrival']['Region'][1]
-
 nationalities_dict2 = contentsDict['Arrival2']['Country'][1]
-region_dict = contentsDict['Arrival2']['Region'][1]
-# covid_dict = contentsDict['Arrival2']['Covid Outbreak'][1]
+
 
 nationalities = list(nationalities_dict.keys())
 nationalities2 = list(nationalities_dict2.keys())
-regions = list(region_dict.keys())
 # isCovid = list(covid_dict.keys())
 
 stay_days_range = range(1, 31)
-
-
-years = []
-for i in range(2023, 2101):
-    years.append(i)
 
 app = dash.Dash(__name__)
 style={'display': 'flex', 'flex-direction': 'row', 'height': '400px'}
@@ -112,49 +84,14 @@ app.layout = html.Div(children=[
         ),
     ]),  
     html.Div(children=[
-        html.Img(style={'width': '30%', 'height': '30%'}, src=StayDays, alt="Example Image"),
+        html.Img(style={'width': '10%', 'height': '10%'}, src=year, alt="Example Image"),
         html.P(''),
-        dcc.Dropdown(
-            id='stay-days-dropdown',
-            options=[{'label': str(d), 'value': d} for d in stay_days_range],
-            value=stay_days_range[0],
-
-        ),
-    ]),
-    html.Div(children=[
-        html.Img(style={'width': '20%', 'height': '20%'}, src=Spending, alt="Example Image"),
-        html.P(''),
-        dcc.Input(id='spending', type='number', value='初期値')
+        dcc.Input(id='year', type='number', value='2025')
     ]),
     html.Div(children=[
         html.Img(style={'width': '20%', 'height': '20%'}, src=Receipts, alt="Example Image"),
         html.P(''),
-        dcc.Input(id='receipt', type='number', value='初期値')
-    ]),
-    html.Div(children=[
-        html.Img(style={'width': '20%', 'height': '20%'}, src=Profit, alt="Example Image"),
-        html.P(''),
-        dcc.Input(id='profit', type='number', value='初期値')
-    ]),
-    html.Div(children=[
-        html.Img(style={'width': '10%', 'height': '10%'}, src=year, alt="Example Image"),
-        html.P(''),
-        dcc.Input(id='year', type='number', value='初期値')
-    ]),
-    html.Div(children=[
-        html.Img(style={'width': '20%', 'height': '20%'}, src=Month, alt="Example Image"),
-        html.P(''),
-        dcc.Input(id='month', type='number', value='初期値')
-    ]),
-    html.Div(children=[
-        html.Img(style={'width': '20%', 'height': '20%'}, src=Inflation, alt="Example Image"),
-        html.P(''),
-        dcc.Input(id='inflation', type='number', value='初期値')
-    ]),
-    html.Div(children=[
-        html.Img(style={'width': '10%', 'height': '10%'}, src=GDP, alt="Example Image"),
-        html.P(''),
-        dcc.Input(id='gdp', type='number', value='初期値')
+        dcc.Input(id='receipt', type='number', value=None)
     ]),
     html.Button(
                 children=[
@@ -177,152 +114,93 @@ app.layout = html.Div(children=[
     Output('output-container', 'children'),
     [
         Input('button', 'n_clicks'),
-        Input('profit', 'value'),
         Input('nationality-dropdown', 'value'),
-        Input('stay-days-dropdown', 'value'),
-        Input('month', 'value'),
-        Input('spending', 'value'),
         Input('receipt', 'value'),
         Input('year', 'value'),
-        Input('inflation', 'value'),
-        Input('gdp', 'value')
+
     ]
 )
 def update_output(
     n_clicks,
-    profit,
     selected_nationality,
-    selected_staydays,
-    month,
-    selected_spending,
     selected_receipt,
     selected_year,
-    selected_inflation,
-    selected_gdp
 ):
     model1 = joblib.load('Model1.joblib')
     model2 = joblib.load('Model2.joblib')
-    model3 = joblib.load('Model3.joblib')
+    model3 = joblib.load('ReceiptsModel.joblib')
     nationality = contentsDict['Arrival']['Country'][1][selected_nationality]
-    selected_region = contentsDict['Arrival']['Region'][1][CountryToRegion[selected_nationality]]
+    nationality2 = contentsDict['Arrival2']['Country'][1][selected_nationality]
+    # selected_region = contentsDict['Arrival']['Region'][1][CountryToRegion[selected_nationality]]
     if n_clicks is None:
         return []
     try:
-        pred1 = Pred1(
+        Receipts = selected_receipt
+        if Receipts == None:
+            print('Receipt Model')
+            Receipts = predReceipt(
+                model3,
+                nationality,
+                selected_year
+                )[0]
+        pred1 = predArr(
             model1,
+            2,
             nationality,
-            selected_staydays,
-            selected_spending,
-            selected_receipt,
-            selected_region,
-            selected_year)
+            selected_year,
+            Receipts
+            )
 
-        pred2 = Pred2(
+        pred2 = predArr(
             model2,
-            nationality,
-            selected_inflation,
+            2,
+            nationality2,
             selected_year,
-            selected_gdp,
-            selected_staydays,
-            selected_spending,
-            selected_receipt,
-            selected_region,
-            # selected_covid
-        )
-        pred2 = Pred2(
-            model2,
-            nationality,
-            selected_inflation,
-            selected_year,
-            selected_gdp,
-            selected_staydays,
-            selected_spending,
-            selected_receipt,
-            selected_region,
-            # selected_covid
-        )
-        pred3 = Pred3(
-            model3,
-            month,
-            selected_year,
-            profit
+            Receipts
         )
         pred_y = ensemble_learning(
             pred1,
-            pred2,
-            pred3
+            pred2
             )
         return[
             html.Img(src=output, alt="Example Image"),
             html.P('Preds: {}'.format(pred_y))
         ]
-
+            
+            
     except:
-        print(selected_nationality,
-            selected_inflation,
-            selected_year,
-            selected_gdp,
-            selected_staydays,
-            selected_spending,
-            selected_receipt,
-            selected_region,)
         return [html.P('something is missed')]
 
-def Pred1(Model, Country, StayDays, Spending, Receipts, Region, Year):
+def predArr(Model, degree, Country, Year, Receipts):
     # numecallize input
     inputs = [
         Country,
-        StayDays,
-        Spending,
-        Receipts,
-        Region,
+        Year,
+        Receipts
+              ]
+    x_pred = np.array([inputs])
+    poly = PolynomialFeatures(degree=degree)
+    x_pred = poly.fit_transform(x_pred)
+    return(Model.predict(x_pred))
+
+
+def predReceipt(Model, Country, Year):
+    # numecallize input
+    inputs = [
+        Country,
         Year
               ]
     x_pred = np.array([inputs])
-    # x_pred = np.format_float_positional(x_pred, precision=7, fractional=False, exponential=True)
-    # print(x_pred)
-    poly = PolynomialFeatures(degree=2)
+    poly = PolynomialFeatures(degree=3)
     x_pred = poly.fit_transform(x_pred)
     return(Model.predict(x_pred))
 
 
-def Pred2(Model, Country, Inflation, Year, GDP, StayDays, Spending , Receipts, Region):
-    # numecallize input
-    inputs = [
-        Country,
-        Inflation,
-        Year,
-        GDP,
-        StayDays,
-        Spending,
-        Receipts,
-        Region
-              ]
-    x_pred = np.array([inputs])
-    poly = PolynomialFeatures(degree=2)
-    x_pred = poly.fit_transform(x_pred)
-    return(Model.predict(x_pred))
 
-
-def Pred3(Model, Month, Year, Profit):
-    # numecallize input
-    inputs = [
-        Month,
-        Year,
-        Profit
-              ]
-    x_pred = np.array([inputs])
-    poly = PolynomialFeatures(degree=2)
-    x_pred = poly.fit_transform(x_pred)
-    return(Model.predict(x_pred))
-
-
-def ensemble_learning(a, b, c):
-    weights = [0.32088682992086176, 0.33996238747906743, 0.3391507826000708]
-    y_pred = np.dot(weights, [a, b, c])
+def ensemble_learning(a, b):
+    weights = [0.5109439720318428, 0.4890560279681572]
+    y_pred = np.dot(weights, [a, b])
     return y_pred
 
-
-# アプリケーションの実行
 if __name__ == '__main__':
     app.run_server(debug=True)
